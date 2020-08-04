@@ -1,0 +1,1217 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Castle Gate"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkmtno_door_924"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Corridor Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mei90_door_941"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Corridor Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mei96_door_942"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "crp_Dungeon Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "crpd_door33"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "hut_door_01"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkmtno_door_921"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkmtno_door_922"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkmtno_door_923"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkmtno_door_926"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "swm_door_01"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "swm_door_02"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "swm_door_03"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Fence Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mei90_door_943"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Fence Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mei96_door_944"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Round Door"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "rkm_door_925"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6734
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 10
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Evil 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_18"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Evil 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_19"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Evil 3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_20"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Ivy"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_23"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Scaly Hide"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_17"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Dark Cloth 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_01"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Dark Cloth 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_02"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Heavy Cloth 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_03"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Heavy Cloth 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_04"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Light Cloth 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_05"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Light Cloth 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_06"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Old, Stained"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_07"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Patterned 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_09"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Patterned 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_10"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Patterned 3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_24"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Patterned 4"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_29"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Rich 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_11"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Rich 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_12"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Rich 3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_13"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Rich 4"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_14"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Sun Motif 1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_27"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain, Sun Motif 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_28"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 111808
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 6
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Barrel Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door28"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Gold Mesh"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_22"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Curtain of Iron Mesh"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_curtain_16"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_metal001"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5349
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Eyeball Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door27"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pull Gate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door21"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6736
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 9
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Area Transition"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "areatransition"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Science Tube Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door29"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 201
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 7
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Drow Crystal Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door26"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Elven Lantern Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door30"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Evil Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20n0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_08h"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_08i"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_08j"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_08k"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_08l"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20m0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20m1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20n1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20p0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20p1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Stone Mechanical Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door23"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6737
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 8
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_01b"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_02b"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_05i"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_05l"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21s0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21s1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21t0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21t1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21u0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21u1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Folding Grate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door25"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Mimosa Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door24"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 23x"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_23x"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 23y"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_23y"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 23z"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_23z"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 24x"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_24x"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 24y"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_24y"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Door 24z"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_24z"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_01a"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_01d"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_01e"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_02a"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_02d"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_02e"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_05k"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20q0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_20q1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Strong Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_22"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wood Centre Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "gn_door22"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_01c"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_02c"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_05h"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_05j"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21r0"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wooden Door (Weak)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ctp_door_21r1"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6738
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6735
+        }
+      }
+    ]
+  }
+}
