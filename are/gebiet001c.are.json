@@ -302,15 +302,15 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 3
+          "value": 7
         },
         "Tile_MainLight1": {
           "type": "byte",
-          "value": 0
+          "value": 30
         },
         "Tile_MainLight2": {
           "type": "byte",
-          "value": 14
+          "value": 13
         },
         "Tile_Orientation": {
           "type": "int",
@@ -318,11 +318,11 @@
         },
         "Tile_SrcLight1": {
           "type": "byte",
-          "value": 3
+          "value": 2
         },
         "Tile_SrcLight2": {
           "type": "byte",
-          "value": 3
+          "value": 2
         }
       },
       {
@@ -345,7 +345,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 3
+          "value": 7
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -689,27 +689,27 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 3
+          "value": 7
         },
         "Tile_MainLight1": {
           "type": "byte",
-          "value": 0
+          "value": 30
         },
         "Tile_MainLight2": {
           "type": "byte",
-          "value": 14
+          "value": 0
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 0
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
-          "value": 2
+          "value": 0
         },
         "Tile_SrcLight2": {
           "type": "byte",
-          "value": 2
+          "value": 0
         }
       },
       {
@@ -732,11 +732,11 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 3
+          "value": 7
         },
         "Tile_MainLight1": {
           "type": "byte",
-          "value": 0
+          "value": 30
         },
         "Tile_MainLight2": {
           "type": "byte",
@@ -744,15 +744,15 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 3
+          "value": 0
         },
         "Tile_SrcLight1": {
           "type": "byte",
-          "value": 3
+          "value": 2
         },
         "Tile_SrcLight2": {
           "type": "byte",
-          "value": 3
+          "value": 2
         }
       },
       {
@@ -2096,7 +2096,7 @@
   },
   "Version": {
     "type": "dword",
-    "value": 333
+    "value": 342
   },
   "Width": {
     "type": "int",

@@ -1,0 +1,19 @@
+//::///////////////////////////////////////////////
+//:: SL Tools
+//:: itm_slrptaler
+//:: Copyright (c) 2009 Dunahan.
+//:://////////////////////////////////////////////
+/*
+    SL-Tool: RPT erstellen
+*/
+//:://////////////////////////////////////////////
+//:: Created By: Dunahan@schwerterkueste.de
+//:: Created On: 05.12.2009
+//:://////////////////////////////////////////////
+#include "_isla_inc"
+#include "_sltools_inc"
+
+void main()
+{
+  CreateItemOnObject("RP-Taler", oItemTarget);
+}

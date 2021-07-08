@@ -2862,15 +2862,7 @@
   },
   "StoreList": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 11,
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        }
-      }
-    ]
+    "value": []
   },
   "TriggerList": {
     "type": "list",
@@ -2879,6 +2871,20 @@
   "WaypointList": {
     "type": "list",
     "value": [
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
       {
         "__struct_id": 5,
         "Comment": {

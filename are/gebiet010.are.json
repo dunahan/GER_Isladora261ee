@@ -87,7 +87,7 @@
   "Name": {
     "type": "cexolocstring",
     "value": {
-      "4": "Mittwald - Wildwechselweg"
+      "4": "Mittwald - Kreis der Götter"
     }
   },
   "NoRest": {
@@ -2741,7 +2741,7 @@
   },
   "Version": {
     "type": "dword",
-    "value": 67
+    "value": 68
   },
   "Width": {
     "type": "int",

@@ -57596,232 +57596,6 @@
           "type": "float",
           "value": 3.349999904632568
         }
-      },
-      {
-        "__struct_id": 9,
-        "AnimationState": {
-          "type": "byte",
-          "value": 0
-        },
-        "Appearance": {
-          "type": "dword",
-          "value": 157
-        },
-        "AutoRemoveKey": {
-          "type": "byte",
-          "value": 0
-        },
-        "Bearing": {
-          "type": "float",
-          "value": -0.0
-        },
-        "BodyBag": {
-          "type": "byte",
-          "value": 0
-        },
-        "CloseLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Conversation": {
-          "type": "resref",
-          "value": ""
-        },
-        "CurrentHP": {
-          "type": "short",
-          "value": 10
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "DisarmDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Faction": {
-          "type": "dword",
-          "value": 1
-        },
-        "Fort": {
-          "type": "byte",
-          "value": 5
-        },
-        "Hardness": {
-          "type": "byte",
-          "value": 5
-        },
-        "HasInventory": {
-          "type": "byte",
-          "value": 0
-        },
-        "HP": {
-          "type": "short",
-          "value": 10
-        },
-        "Interruptable": {
-          "type": "byte",
-          "value": 1
-        },
-        "KeyName": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "KeyRequired": {
-          "type": "byte",
-          "value": 0
-        },
-        "Lockable": {
-          "type": "byte",
-          "value": 1
-        },
-        "Locked": {
-          "type": "byte",
-          "value": 0
-        },
-        "LocName": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Area Place Holder",
-            "4": "*Für-Area-Sytem-NOTWENDIG*"
-          }
-        },
-        "OnClick": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnClosed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDamaged": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDeath": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDisarm": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnHeartbeat": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnInvDisturbed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnLock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnMeleeAttacked": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnOpen": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnSpellCastAt": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnTrapTriggered": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUnlock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUsed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUserDefined": {
-          "type": "resref",
-          "value": ""
-        },
-        "OpenLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Plot": {
-          "type": "byte",
-          "value": 0
-        },
-        "PortraitId": {
-          "type": "word",
-          "value": 515
-        },
-        "Ref": {
-          "type": "byte",
-          "value": 0
-        },
-        "Static": {
-          "type": "byte",
-          "value": 1
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "area_designator"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "area_designat004"
-        },
-        "TrapDetectable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapDetectDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapDisarmable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapFlag": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapOneShot": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapType": {
-          "type": "byte",
-          "value": 0
-        },
-        "Type": {
-          "type": "byte",
-          "value": 0
-        },
-        "Useable": {
-          "type": "byte",
-          "value": 0
-        },
-        "Will": {
-          "type": "byte",
-          "value": 0
-        },
-        "X": {
-          "type": "float",
-          "value": 65.85411071777344
-        },
-        "Y": {
-          "type": "float",
-          "value": 55.9356803894043
-        },
-        "Z": {
-          "type": "float",
-          "value": 4.0
-        }
       }
     ]
   },
@@ -58600,7 +58374,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_SN01_ST_PC_DS1"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58617,7 +58391,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_SN01_ST_PC_DS1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_boss"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -58664,7 +58473,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP600_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58681,7 +58490,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP600_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_troldb"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -58728,7 +58572,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58745,7 +58589,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -58792,7 +58671,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58809,11 +58688,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_utgarl"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": 0.4052453637123108
+          "value": 0.4052488505840302
         },
         "XPosition": {
           "type": "float",
@@ -58821,7 +58735,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.914207935333252
+          "value": -0.9142063856124878
         },
         "YPosition": {
           "type": "float",
@@ -58856,7 +58770,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58873,7 +58787,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_utgarl"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -58920,7 +58869,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -58937,7 +58886,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_utgarl"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -58984,7 +58968,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59001,11 +58985,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_utgarl"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.02454119734466076
+          "value": -0.02454117685556412
         },
         "XPosition": {
           "type": "float",
@@ -59048,7 +59067,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59065,7 +59084,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59112,7 +59166,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59129,11 +59183,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": 0.04906760901212692
+          "value": 0.04906755313277245
         },
         "XPosition": {
           "type": "float",
@@ -59176,7 +59265,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59193,11 +59282,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.449614554643631
+          "value": -0.449618399143219
         },
         "XPosition": {
           "type": "float",
@@ -59205,7 +59329,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.8932226896286011
+          "value": -0.8932207226753235
         },
         "YPosition": {
           "type": "float",
@@ -59240,7 +59364,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59257,7 +59381,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59304,7 +59463,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59321,7 +59480,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59368,7 +59562,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59385,7 +59579,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59432,7 +59661,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59449,11 +59678,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": 0.2191008031368256
+          "value": 0.2191005647182465
         },
         "XPosition": {
           "type": "float",
@@ -59461,7 +59725,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": 0.9757022261619568
+          "value": 0.9757022857666016
         },
         "YPosition": {
           "type": "float",
@@ -59496,7 +59760,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59513,7 +59777,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59560,7 +59859,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59577,7 +59876,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59624,7 +59958,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59641,7 +59975,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59688,7 +60057,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59705,11 +60074,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": 0.04906760901212692
+          "value": 0.04906755313277245
         },
         "XPosition": {
           "type": "float",
@@ -59752,7 +60156,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59769,7 +60173,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_otomi"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59816,7 +60255,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59833,7 +60272,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_trullo"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59880,7 +60354,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59897,7 +60371,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_trullo"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -59944,7 +60453,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP250_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -59961,7 +60470,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mon"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP250_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "mob_troll_trullo"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",

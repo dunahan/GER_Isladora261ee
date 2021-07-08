@@ -71,17 +71,6 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "HABD_BindStone_UtilsTrigger"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "habd_bindstone_u"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
                 "value": "Listening Trigger"
               },
               "RESREF": {
@@ -219,17 +208,6 @@
               "LIST": {
                 "type": "list",
                 "value": [
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Isla-Übergänge"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "isla_areatrigger"
-                    }
-                  },
                   {
                     "__struct_id": 0,
                     "NAME": {

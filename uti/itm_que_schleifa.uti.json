@@ -1,0 +1,115 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 9
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 73120
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "id": 2993,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Questbelohnung!\n\nSchleifstein für 3malige Benutzung. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 2985,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Questbelohnung - SchleifsteinA"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 236
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 148
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 4
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 512
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 10
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "questbe_schleifstein"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "itm_que_schleifa"
+  }
+}

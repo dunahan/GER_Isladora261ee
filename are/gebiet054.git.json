@@ -1084,105 +1084,7 @@
   },
   "List": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 0,
-        "AddCost": {
-          "type": "dword",
-          "value": 0
-        },
-        "BaseItem": {
-          "type": "int",
-          "value": 65
-        },
-        "Charges": {
-          "type": "byte",
-          "value": 0
-        },
-        "Cost": {
-          "type": "dword",
-          "value": 0
-        },
-        "Cursed": {
-          "type": "byte",
-          "value": 0
-        },
-        "DescIdentified": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "Identified": {
-          "type": "byte",
-          "value": 1
-        },
-        "LocalizedName": {
-          "type": "cexolocstring",
-          "value": {
-            "4": "Herrenhausschlüssel"
-          }
-        },
-        "ModelPart1": {
-          "type": "byte",
-          "value": 62
-        },
-        "ModelPart2": {
-          "type": "byte",
-          "value": 62
-        },
-        "ModelPart3": {
-          "type": "byte",
-          "value": 62
-        },
-        "Plot": {
-          "type": "byte",
-          "value": 0
-        },
-        "PropertiesList": {
-          "type": "list",
-          "value": []
-        },
-        "StackSize": {
-          "type": "word",
-          "value": 1
-        },
-        "Stolen": {
-          "type": "byte",
-          "value": 0
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "sk_mansion"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "sk_mansion"
-        },
-        "XOrientation": {
-          "type": "float",
-          "value": -0.5555701851844788
-        },
-        "XPosition": {
-          "type": "float",
-          "value": 36.81599807739258
-        },
-        "YOrientation": {
-          "type": "float",
-          "value": 0.8314696550369263
-        },
-        "YPosition": {
-          "type": "float",
-          "value": 77.89214324951172
-        },
-        "ZPosition": {
-          "type": "float",
-          "value": 0.3036438822746277
-        }
-      }
-    ]
+    "value": []
   },
   "Placeable List": {
     "type": "list",
@@ -1862,232 +1764,6 @@
         "Z": {
           "type": "float",
           "value": 0.25
-        }
-      },
-      {
-        "__struct_id": 9,
-        "AnimationState": {
-          "type": "byte",
-          "value": 0
-        },
-        "Appearance": {
-          "type": "dword",
-          "value": 157
-        },
-        "AutoRemoveKey": {
-          "type": "byte",
-          "value": 0
-        },
-        "Bearing": {
-          "type": "float",
-          "value": -0.0
-        },
-        "BodyBag": {
-          "type": "byte",
-          "value": 0
-        },
-        "CloseLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Conversation": {
-          "type": "resref",
-          "value": ""
-        },
-        "CurrentHP": {
-          "type": "short",
-          "value": 10
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "DisarmDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Faction": {
-          "type": "dword",
-          "value": 1
-        },
-        "Fort": {
-          "type": "byte",
-          "value": 5
-        },
-        "Hardness": {
-          "type": "byte",
-          "value": 5
-        },
-        "HasInventory": {
-          "type": "byte",
-          "value": 0
-        },
-        "HP": {
-          "type": "short",
-          "value": 10
-        },
-        "Interruptable": {
-          "type": "byte",
-          "value": 1
-        },
-        "KeyName": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "KeyRequired": {
-          "type": "byte",
-          "value": 0
-        },
-        "Lockable": {
-          "type": "byte",
-          "value": 1
-        },
-        "Locked": {
-          "type": "byte",
-          "value": 0
-        },
-        "LocName": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Area Place Holder",
-            "4": "*Für-Area-Sytem-NOTWENDIG*"
-          }
-        },
-        "OnClick": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnClosed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDamaged": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDeath": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDisarm": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnHeartbeat": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnInvDisturbed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnLock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnMeleeAttacked": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnOpen": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnSpellCastAt": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnTrapTriggered": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUnlock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUsed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUserDefined": {
-          "type": "resref",
-          "value": ""
-        },
-        "OpenLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Plot": {
-          "type": "byte",
-          "value": 0
-        },
-        "PortraitId": {
-          "type": "word",
-          "value": 515
-        },
-        "Ref": {
-          "type": "byte",
-          "value": 0
-        },
-        "Static": {
-          "type": "byte",
-          "value": 1
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "area_designator"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "area_designat004"
-        },
-        "TrapDetectable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapDetectDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapDisarmable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapFlag": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapOneShot": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapType": {
-          "type": "byte",
-          "value": 0
-        },
-        "Type": {
-          "type": "byte",
-          "value": 0
-        },
-        "Useable": {
-          "type": "byte",
-          "value": 0
-        },
-        "Will": {
-          "type": "byte",
-          "value": 0
-        },
-        "X": {
-          "type": "float",
-          "value": 30.0
-        },
-        "Y": {
-          "type": "float",
-          "value": 35.0
-        },
-        "Z": {
-          "type": "float",
-          "value": 3.0
         }
       },
       {
@@ -29779,7 +29455,7 @@
         "Description": {
           "type": "cexolocstring",
           "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
           }
         },
         "HasMapNote": {
@@ -29794,7 +29470,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -29811,7 +29487,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -29819,7 +29530,7 @@
         },
         "XPosition": {
           "type": "float",
-          "value": 9.850912094116211
+          "value": 50.08634567260742
         },
         "YOrientation": {
           "type": "float",
@@ -29827,7 +29538,205 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 9.776372909545898
+          "value": 67.60226440429688
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": -1.000005960464478
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+          }
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "4": "Spawnpoint"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "bajou_swamp"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 5.62987756729126
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 74.66976928710938
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": -0.1628284454345703
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+          }
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "4": "Spawnpoint"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "bajou_swamp"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 9.901983261108398
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 9.801887512207031
         },
         "ZPosition": {
           "type": "float",
@@ -29843,7 +29752,7 @@
         "Description": {
           "type": "cexolocstring",
           "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
           }
         },
         "HasMapNote": {
@@ -29858,7 +29767,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -29875,7 +29784,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -29883,7 +29827,7 @@
         },
         "XPosition": {
           "type": "float",
-          "value": 34.29035568237305
+          "value": 34.48501205444336
         },
         "YOrientation": {
           "type": "float",
@@ -29891,7 +29835,7 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 33.23444366455078
+          "value": 33.35610198974609
         },
         "ZPosition": {
           "type": "float",
@@ -29907,7 +29851,7 @@
         "Description": {
           "type": "cexolocstring",
           "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
           }
         },
         "HasMapNote": {
@@ -29922,7 +29866,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -29939,7 +29883,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -29955,11 +29934,11 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 12.27053546905518
+          "value": 12.34327602386475
         },
         "ZPosition": {
           "type": "float",
-          "value": 2.534894943237305
+          "value": 2.526031494140625
         }
       },
       {
@@ -29971,7 +29950,7 @@
         "Description": {
           "type": "cexolocstring",
           "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
+            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
           }
         },
         "HasMapNote": {
@@ -29986,7 +29965,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -30003,7 +29982,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP300_SN05_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bajou_swamp"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -30011,7 +30025,7 @@
         },
         "XPosition": {
           "type": "float",
-          "value": 8.487790107727051
+          "value": 8.535784721374512
         },
         "YOrientation": {
           "type": "float",
@@ -30019,139 +30033,11 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 38.09043502807617
+          "value": 38.30594253540039
         },
         "ZPosition": {
           "type": "float",
-          "value": 3.145837783813477
-        }
-      },
-      {
-        "__struct_id": 5,
-        "Appearance": {
-          "type": "byte",
-          "value": 1
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
-          }
-        },
-        "HasMapNote": {
-          "type": "byte",
-          "value": 0
-        },
-        "LinkedTo": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "LocalizedName": {
-          "id": 14817,
-          "type": "cexolocstring",
-          "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
-          }
-        },
-        "MapNote": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "MapNoteEnabled": {
-          "type": "byte",
-          "value": 0
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "bajou_swamp"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "spawnpoint_group"
-        },
-        "XOrientation": {
-          "type": "float",
-          "value": 0.0
-        },
-        "XPosition": {
-          "type": "float",
-          "value": 50.19257736206055
-        },
-        "YOrientation": {
-          "type": "float",
-          "value": 1.0
-        },
-        "YPosition": {
-          "type": "float",
-          "value": 67.36323547363281
-        },
-        "ZPosition": {
-          "type": "float",
-          "value": -1.999990463256836
-        }
-      },
-      {
-        "__struct_id": 5,
-        "Appearance": {
-          "type": "byte",
-          "value": 1
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {
-            "4": "Mit diesem Spawnpoint werden:\nSP_\t\tSpawnt einzigartig\nSN10M03_\t3-10 Kreaturen werden gespawnt\nSA_\t\tAlle werden gespawnt\nSR20M05_\tSpawnt in einem Radius von 5-20 Meter\nRW_\t\tSpawnt und läuft zufällige strecken\nPCR_\t\t(De)Spawnt wenn Spieler (nicht) im Gebiet\nSG\t\tSpawne spezielle Gruppe"
-          }
-        },
-        "HasMapNote": {
-          "type": "byte",
-          "value": 0
-        },
-        "LinkedTo": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "LocalizedName": {
-          "id": 14817,
-          "type": "cexolocstring",
-          "value": {
-            "4": "SP50_SN03_SA_RW_PCR_SG"
-          }
-        },
-        "MapNote": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "MapNoteEnabled": {
-          "type": "byte",
-          "value": 0
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "bajou_swamp"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "spawnpoint_group"
-        },
-        "XOrientation": {
-          "type": "float",
-          "value": 0.0
-        },
-        "XPosition": {
-          "type": "float",
-          "value": 5.783598899841309
-        },
-        "YOrientation": {
-          "type": "float",
-          "value": 1.0
-        },
-        "YPosition": {
-          "type": "float",
-          "value": 74.38794708251953
-        },
-        "ZPosition": {
-          "type": "float",
-          "value": -0.1027469635009766
+          "value": 3.313766479492188
         }
       }
     ]

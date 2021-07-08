@@ -96,7 +96,7 @@
   },
   "OnEnter": {
     "type": "resref",
-    "value": ""
+    "value": "_area_onenter"
   },
   "OnExit": {
     "type": "resref",
@@ -419,7 +419,7 @@
   },
   "Version": {
     "type": "dword",
-    "value": 19
+    "value": 21
   },
   "Width": {
     "type": "int",

@@ -1593,55 +1593,6 @@
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
-          "value": "gebiet045"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045a"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045b"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045c"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045d"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045e"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
-          "value": "gebiet045f"
-        }
-      },
-      {
-        "__struct_id": 6,
-        "Area_Name": {
-          "type": "resref",
           "value": "gebiet060"
         }
       },
@@ -1770,507 +1721,12 @@
           "type": "resref",
           "value": "gebiet001d"
         }
-      }
-    ]
-  },
-  "Mod_CacheNSSList": {
-    "type": "list",
-    "value": [
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_area_onenter"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_area_onexit"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_isla_inc"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onactivitem"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onclientent"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onclientexi"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onheartbeat"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onitmacquir"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onitmequip"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onitmunacqu"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onitmunequi"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onmodload"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onplayercha"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_onplayerlvl"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_mod_spellhooks"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "_tri_onareatrans"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "dr_callopen_onhb"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "dr_closedaynight"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "eski_tag_start"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "living_heartbeat"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_ani_htbt"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_endround"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_i0_generic"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_onattacked"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_ondamaged"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_percept"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_spawn_herb"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "loc_spawn_omni"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default1"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default2"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default3"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default4"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default5"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default6"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default7"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_default9"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_defaulta"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_defaultb"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_defaultd"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_c2_defaulte"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_ch_ac1"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_ch_ac2"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_ch_ac4"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_ch_ac5"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_o2_gargoyle"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "nw_o2_skeleton"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "portal_heartbeat"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sf_xp"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_dopplm_onperc"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_dopplw_onperc"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_npxactin"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_raiseme"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_spellhook"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "sk_timeanim"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "spawn_sample_hb"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_attacked"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_endcombat"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_heartbeat"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_onblocked"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_onconv"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_ondamage"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_ondeath"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_ondisturb"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_percept"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_rested"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_spawn"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_spellcast"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "x2_def_userdef"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "zep_doorkill"
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ResRef": {
-          "type": "resref",
-          "value": "zep_doorspawn"
-        }
       },
       {
-        "__struct_id": 9,
-        "ResRef": {
+        "__struct_id": 6,
+        "Area_Name": {
           "type": "resref",
-          "value": "zep_torchspawn"
+          "value": "gebiet013b"
         }
       }
     ]
@@ -2294,8 +1750,8 @@
   "Mod_Description": {
     "type": "cexolocstring",
     "value": {
-      "0": "GERMAN PW! Please go to www.schwerterkueste.de for full info on this world.   Required:  NWN Enhanced Edition 1.80.8193(.9) also CEP 2.61 and Isladora Haks   v072020",
-      "4": "Besuche bitte www.schwerterkueste.de f√ºr Infos, notwendige Downloads usw.  Notwendiges:  NWN Enhanced Edition 1.80.8193(,9) und  CEP 2.61, Isladora Haks  v072020"
+      "0": "GERMAN PW! Please go to www.schwerterkueste.de for full info on this world.   Required (at least):  NWN Enhanced Edition 1.80.8193(.20.1) und  CEP 2.61, Isladora Haks  v032021c",
+      "4": "Besuche bitte www.schwerterkueste.de f√ºr Infos, notwendige Downloads usw.  Notwendiges (min.):  NWN Enhanced Edition 1.80.8193(.20.1) und  CEP 2.61, Isladora Haks  v032021c"
     }
   },
   "Mod_DuskHour": {
@@ -2719,7 +2175,7 @@
   },
   "Mod_ID": {
     "type": "void",
-    "value": "◊^¥\"\u001E\r√ÈÈ'\u0012é¢œ/t"
+    "value64": "1160Ih4Nw+npJxKOos8vdA=="
   },
   "Mod_IsSaveGame": {
     "type": "byte",
@@ -2727,7 +2183,7 @@
   },
   "Mod_MinGameVer": {
     "type": "cexostring",
-    "value": "1.80"
+    "value": "1.82"
   },
   "Mod_MinPerHour": {
     "type": "byte",
@@ -2736,8 +2192,8 @@
   "Mod_Name": {
     "type": "cexolocstring",
     "value": {
-      "0": "Isladora PW  (www.schwerterkueste.de) - German -",
-      "4": "Isladora PW  (www.schwerterkueste.de)"
+      "0": "GER] Isladora 261 EE",
+      "4": "GER] Isladora 261 EE"
     }
   },
   "Mod_OnAcquirItem": {
@@ -2834,7 +2290,7 @@
   },
   "Mod_Tag": {
     "type": "cexostring",
-    "value": "IsadoraPW"
+    "value": "www_schwerterkueste_de"
   },
   "Mod_Version": {
     "type": "dword",
@@ -2875,21 +2331,6 @@
         "Value": {
           "type": "cexostring",
           "value": "_mod_spellhooks"
-        }
-      },
-      {
-        "__struct_id": 0,
-        "Name": {
-          "type": "cexostring",
-          "value": "X2_L_NOTREASURE"
-        },
-        "Type": {
-          "type": "dword",
-          "value": 1
-        },
-        "Value": {
-          "type": "int",
-          "value": 1
         }
       },
       {
@@ -3039,7 +2480,7 @@
         },
         "Value": {
           "type": "int",
-          "value": 2
+          "value": 0
         }
       },
       {
@@ -3054,7 +2495,7 @@
         },
         "Value": {
           "type": "int",
-          "value": 6
+          "value": 7
         }
       },
       {

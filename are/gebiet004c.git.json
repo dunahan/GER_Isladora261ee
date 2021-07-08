@@ -152701,7 +152701,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -152718,7 +152718,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_tempusrit008"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",

@@ -1,0 +1,115 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 4
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 79
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10014
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 58571,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Gesandter der Akademie zu Corazur\n\nDer Träger dieses Emblem ist zu erkennen, als der Gesandte der Akademie zu Corazur.\n\nFürderhin vertritt er magische Belange zur Sicherheitsgewahrung der Bürger Isladoras, als auch dem Schutze des Regentenhauses.\n\nMagische Begebenheiten sind mit der Regentschaft abzuklären, sofern sie Auswirkungen außerhalb der Akademie betreffen.\n\nUntersuchungen magischer Gegebenheiten, sowie Artefakte werden vom Träger des Emblem durchgeführt oder an einen Vertreter seiner Zunft durch seine Wahl weitergeleitet.\nEine Weiterleitung muss der Regentschaft gemeldet werden.\n\nUntersuchungsergebnisse werden in Schriftform dargebracht, ebenso in mündlicher Form."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13499,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Gesandter der Akademie zu Corazur"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 20
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 142
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 10
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "eski_emblemakademie"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "eski_emblakademi"
+  }
+}

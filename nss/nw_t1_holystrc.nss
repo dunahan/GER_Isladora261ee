@@ -1,0 +1,22 @@
+//::///////////////////////////////////////////////
+//:: Strong Holy Trap
+//:: NW_T1_HolyStrC
+//:://////////////////////////////////////////////
+/*
+    Strikes the entering undead with a dose of holy
+    water for 8d10 damage.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: The Krit
+//:: Created On: December 10, 2010
+//:://////////////////////////////////////////////
+
+
+#include "tk_trap_inc"
+
+
+void main()
+{
+    DoHolyTrap(d10(8), d4(6));
+}
+

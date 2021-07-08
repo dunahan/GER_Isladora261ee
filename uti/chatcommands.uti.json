@@ -1,0 +1,85 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "id": 62546,
+    "type": "cexolocstring",
+    "value": {
+      "4": "<czzþ>Emotes\n<czzþ>These are the emotes you can use via chat. They can be typed into any chat channel (party, talk, shout, etc.) and have the same effect in all of them. They are case insensitive. Most emotes also have a two-letter shortcut which may be used instead, in parentheses to the right of the emote.\n<czzþ>*agree <cþþþ>(<czzþ>*ag<cþþþ>)\n<czzþ>*bark <cþþþ>(<czzþ>*bk<cþþþ>)\n<czzþ>*beg <cþþþ>(<czzþ>*bg<cþþþ>)\n<czzþ>*belch <cþþþ>(<czzþ>*bh<cþþþ>) <cþþþ>(male only<cþþþ>)\n<czzþ>*bend <cþþþ>(<czzþ>*bn<cþþþ>)\n<czzþ>*bored <cþþþ>(<czzþ>*bo<cþþþ>)\n<czzþ>*bow <cþþþ>(<czzþ>*bw<cþþþ>)\n<czzþ>*burp <cþþþ>(<czzþ>*bp<cþþþ>) <cþþþ>(male only<cþþþ>)\n<czzþ>*bye\n<czzþ>*cantrip <cþþþ>(<czzþ>*ca<cþþþ>)\n<czzþ>*cast <cþþþ>(<czzþ>*cs<cþþþ>)\n<czzþ>*celebrate <cþþþ>(<czzþ>*cl<cþþþ>)\n<czzþ>*chat <cþþþ>(<czzþ>*ct<cþþþ>)\n<czzþ>*chant <cþþþ>(<czzþ>*cn<cþþþ>)\n<czzþ>*cheer <cþþþ>(<czzþ>*ch<cþþþ>)\n<czzþ>*choke\n<czzþ>*chortle <cþþþ>(<czzþ>*cr<cþþþ>)\n<czzþ>*chuckle <cþþþ>(<czzþ>*ck<cþþþ>)\n<czzþ>*collapse <cþþþ>(<czzþ>*co<cþþþ>)\n<czzþ>*cough <cþþþ>(<czzþ>*cg<cþþþ>)\n<czzþ>*cry\n<czzþ>*curtsy <cþþþ>(<czzþ>*cy<cþþþ>)\n<czzþ>*dance <cþþþ>(<czzþ>*da<cþþþ>)\n<czzþ>*dead <cþþþ>(<czzþ>*dd<cþþþ>)\n<czzþ>*demand <cþþþ>(<czzþ>*dm<cþþþ>)\n<czzþ>*die <cþþþ>(<czzþ>*di<cþþþ>)\n<czzþ>*dodge <cþþþ>(<czzþ>*dg<cþþþ>)\n<czzþ>*drink <cþþþ>(<czzþ>*dr<cþþþ>)\n<czzþ>*drunk <cþþþ>(<czzþ>*dn<cþþþ>)\n<czzþ>*duck <cþþþ>(<czzþ>*dk<cþþþ>)\n<czzþ>*exhausted <cþþþ>(<czzþ>*ex<cþþþ>)\n<czzþ>*fall <cþþþ>(<czzþ>*fl<cþþþ>)\n<czzþ>*fatigue <cþþþ>(<czzþ>*fa<cþþþ>)\n<czzþ>*fiddle <cþþþ>(<czzþ>*fi<cþþþ>)\n<czzþ>*fidget <cþþþ>(<czzþ>*fg<cþþþ>)\n<czzþ>*flop <cþþþ>(<czzþ>*fp<cþþþ>)\n<czzþ>*giggle <cþþþ>(<czzþ>*gi<cþþþ>) <cþþþ>(female only<cþþþ>)\n<czzþ>*goodbye <cþþþ>(<czzþ>*gb<cþþþ>)\n<czzþ>*goodnight <cþþþ>(<czzþ>*gt<cþþþ>)\n<czzþ>*greet <cþþþ>(<czzþ>*gr<cþþþ>)\n<czzþ>*groan <cþþþ>(<czzþ>*gn<cþþþ>)\n<czzþ>*guffaw <cþþþ>(<czzþ>*gw<cþþþ>)\n<czzþ>*hello <cþþþ>(<czzþ>*hl<cþþþ>)\n<czzþ>*hiccup <cþþþ>(<czzþ>*hp<cþþþ>) <cþþþ>(male only<cþþþ>)\n<czzþ>*hooray <cþþþ>(<czzþ>*hy<cþþþ>)\n<czzþ>*hoot <cþþþ>(<czzþ>*ht<cþþþ>)\n<czzþ>*howl <cþþþ>(<czzþ>*hw<cþþþ>)\n<czzþ>*hum <cþþþ>(<czzþ>*hm<cþþþ>)\n<czzþ>*kneel <cþþþ>(<czzþ>*kn<cþþþ>)\n<czzþ>*laugh <cþþþ>(<czzþ>*la<cþþþ>)\n<czzþ>*lie\n<czzþ>*look <cþþþ>(<czzþ>*lk<cþþþ>)\n<czzþ>*meditate <cþþþ>(<czzþ>*md<cþþþ>)\n<czzþ>*meow <cþþþ>(<czzþ>*mw<cþþþ>)\n<czzþ>*moan <cþþþ>(<czzþ>*mn<cþþþ>)\n<czzþ>*mock <cþþþ>(<czzþ>*mk<cþþþ>)\n<czzþ>*moo <cþþþ>(<czzþ>*mo<cþþþ>)\n<czzþ>*nap <cþþþ>(<czzþ>*np<cþþþ>)\n<czzþ>*no\n<czzþ>*nod <cþþþ>(<czzþ>*nd<cþþþ>)\n<czzþ>*nope\n<czzþ>*ouch <cþþþ>(<czzþ>*ow<cþþþ>)\n<czzþ>*peer <cþþþ>(<czzþ>*pe<cþþþ>)\n<czzþ>*plead <cþþþ>(<czzþ>*pl<cþþþ>)\n<czzþ>*pray <cþþþ>(<czzþ>*pr<cþþþ>)\n<czzþ>*prone <cþþþ>(<czzþ>*pn<cþþþ>)\n<czzþ>*puke <cþþþ>(<czzþ>*pu<cþþþ>)\n<czzþ>*read <cþþþ>(<czzþ>*re<cþþþ>)\n<czzþ>*rest <cþþþ>(<czzþ>*rt<cþþþ>)\n<czzþ>*roar <cþþþ>(<czzþ>*rr<cþþþ>)\n<czzþ>*salute <cþþþ>(<czzþ>*sa<cþþþ>)\n<czzþ>*scan <cþþþ>(<czzþ>*sn<cþþþ>)\n<czzþ>*scratch <cþþþ>(<czzþ>*sc<cþþþ>)\n<czzþ>*scream <cþþþ>(<czzþ>*sm<cþþþ>)\n<czzþ>*screech\n<czzþ>*shift <cþþþ>(<czzþ>*sh<cþþþ>)\n<czzþ>*sing <cþþþ>(<czzþ>*sg<cþþþ>)\n<czzþ>*sip\n<czzþ>*sit <cþþþ>(<czzþ>*si<cþþþ>)\n<czzþ>*sleep <cþþþ>(<czzþ>*sl<cþþþ>)\n<czzþ>*smoke <cþþþ>(<czzþ>*sk<cþþþ>)\n<czzþ>*snarl\n<czzþ>*sneeze <cþþþ>(<czzþ>*sz<cþþþ>)\n<czzþ>*snore\n<czzþ>*sob <cþþþ>(<czzþ>*sb<cþþþ>)\n<czzþ>*spasm <cþþþ>(<czzþ>*sp<cþþþ>)\n<czzþ>*spit <cþþþ>(male only<cþþþ>)\n<czzþ>*steal <cþþþ>(<czzþ>*st<cþþþ>)\n<czzþ>*stoop <cþþþ>(<czzþ>*so<cþþþ>)\n<czzþ>*stretch <cþþþ>(<czzþ>*sr<cþþþ>)\n<czzþ>*sway <cþþþ>(<czzþ>*sy<cþþþ>)\n<czzþ>*swipe <cþþþ>(<czzþ>*sw<cþþþ>)\n<czzþ>*talk <cþþþ>(<czzþ>*tl<cþþþ>)\n<czzþ>*taunt <cþþþ>(<czzþ>*ta<cþþþ>)\n<czzþ>*threaten <cþþþ>(<czzþ>*th<cþþþ>)\n<czzþ>*tired <cþþþ>(<czzþ>*ti<cþþþ>)\n<czzþ>*toast <cþþþ>(<czzþ>*tt<cþþþ>) <cþþþ>(male only<cþþþ>)\n<czzþ>*trip <cþþþ>(<czzþ>*tp<cþþþ>)\n<czzþ>*vomit <cþþþ>(<czzþ>*vm<cþþþ>)\n<czzþ>*wail <cþþþ>(<czzþ>*wl<cþþþ>)\n<czzþ>*wave <cþþþ>(<czzþ>*wa<cþþþ>)\n<czzþ>*weep <cþþþ>(<czzþ>*wp<cþþþ>)\n<czzþ>*whistle <cþþþ>(<czzþ>*wh<cþþþ>)\n<czzþ>*woozy <cþþþ>(<czzþ>*wz<cþþþ>)\n<czzþ>*worship <cþþþ>(<czzþ>*wo<cþþþ>)\n<czzþ>*yawn <cþþþ>(<czzþ>*yw<cþþþ>)\n\n<czzþ>Commands\n<czzþ>These are the commands you can use via chat. They can be typed into any chat channel (party, talk, shout, etc.) and have the same effect in all of them. They are case insensitive.\n<c þ >Commands shown in green must either be sent via tell or targeted with the command targeter. You will be prompted to use the command targeter if you do not target via tell.\n<czzþ>!d4 <cþþþ>= Rolls a d4.\n<czzþ>!d6 <cþþþ>= Rolls a d6.\n<czzþ>!d8 <cþþþ>= Rolls a d8.\n<czzþ>!d10 <cþþþ>= Rolls a d10.\n<czzþ>!d12 <cþþþ>= Rolls a d12.\n<czzþ>!d20 <cþþþ>= Rolls a d20.\n<czzþ>!d100 <cþþþ>= Rolls a d100.\n<czzþ>!partyroll <cþþþ>= Does an arranged party loot split roll, if the command giver is the party leader.\n<czzþ>!skillcheck <cþþþ>= Allows players to roll checks against a specific skill and DC. The command format is <c×{þ>!skillcheck (skill#) (DC#)<cþþþ> . Example: A DC 20 Discipline Check would be spoken as follows: <c×{þ>!skillcheck 3 20<cþþþ> . The result will be displayed in floating text above the player. A list of skill numbers can be called up using the <c×{þ>!skillslist<cþþþ> command.\n<czzþ>!Skillslist <cþþþ>= Sends a list of the skills and matching skill numbers to the players combat log, for easy reference when using the <c×{þ>!skillcheck<cþþþ> command to do skill checks.\n<czzþ>!wpac <cþþþ>= Changes weapon visual to acid.\n<czzþ>!wpco <cþþþ>= Changes weapon visual to cold.\n<czzþ>!wpel <cþþþ>= Changes weapon visual to electric.\n<czzþ>!wpev <cþþþ>= Changes weapon visual to evil.\n<czzþ>!wpfi <cþþþ>= Changes weapon visual to fire.\n<czzþ>!wpho <cþþþ>= Changes weapon visual to holy.\n<czzþ>!wpnone <cþþþ>= Removes weapon visual.\n<c þ >!setname <cþþþ>= Allows the speaker to rename one of their items. The command format is <c´þd>!setname (new name)<cþþþ>. The command is case-sensitive. Example: To rename item Longsword to Sam's Sword: <c´þd>!setname Sam's Sword<cþþþ>. This command must be targeted at an item, using the Command Targeter.\n<c þ >!setnameall <cþþþ>= This command is identical in function and format to <c´þd>!setname<cþþþ>, but will rename all items in the targeted item's possessor's inventory of the same name as the targeted item.\n<czzþ>!help <cþþþ>= Lists the useable chat commands plus explanations.\n<czzþ>!list emotes <cþþþ>= Lists the useable chat emotes.\n<czzþ>!list commands <cþþþ>= Lists the useable chat commands.\n<czzþ>!list ignored <cþþþ>= Lists the players you have chosen to ignore.\n<czzþ>!list languages <cþþþ>= Lists all the languages a player can speak, and explains the <c×{þ>/l<cþþþ> (oneliner) and <c×{þ>!speak<cþþþ> command uses.\n<czzþ>!list alllanguages <cþþþ>= Lists all the languages available in SIMTools.\n<czzþ>/l <cþþþ>= Speak a single line in the specified language. The command format is <c×{þ>/l (name of language) (message)<cþþþ>. You can get a list of the languages your character is able to speak with the <c×{þ>!list languages<cþþþ> command.\n<czzþ>!speak <cþþþ>= Using this command makes you speak the language specified until you <c×{þ>!speak<cþþþ> another language or <c×{þ>!speak common<cþþþ> to speak normally again. You can get a list of the languages your character is able to speak with the <c×{þ>!list languages<cþþþ> command.\n<czzþ>!metaaccept <cþþþ>= Accepts an invitation to a metachannel.\n<czzþ>!metadecline <cþþþ>= Declines an invitation to a metachannel.\n<czzþ>!metadisband <cþþþ>= Removes every member of the metachannel. Only the leader of the metachannel can disband it.\n<c þ >!metainvite <cþþþ>(must be targeted by tell or command targeter) = Invites the target of the tell to your current metachannel. If you are not in a meta chanel, a new channel will be created if that person accepts.\n<c þ >!metakick <cþþþ>(must be targeted by tell or command targeter) = Kicks the target of the tell from your metachannel. Only the leader of the metachannel can kick people from it.\n<czzþ>!metaleave <cþþþ>= Removes you from your current metachannel.\n<czzþ>!metalist <cþþþ>= Lists the people in your metachannel.\n<czzþ>/m <cþþþ>= Sends the text entered after the channel designation to the player's metachannel.\n<c þ >!delete <cþþþ>(must be targeted by tell or command targeter) = Deletes the target character. It will ask for confimation by repetition of the command combined with the target's public cd key, as shown in the <c´þd>!playerinfo<cþþþ> command.\n<c þ >!playerinfo <cþþþ>(must be targeted by tell or command targeter) = Lists the target's Playername, CD Key, Classes, Experience, Experience Needed for Next Level, Area, and Partymembers. If used on yourself it also shows Diety, Subrace, Gold, and Gold Plus Inventory Value. You may hide all but your Playername and CD Key from other players by using the <c×{þ>!anon<cþþþ> command.\n<czzþ>!anon <cþþþ>= Hides your class, experience, area, and partymember information from other players using the <c´þd>!playerinfo<cþþþ> command.\n<czzþ>!unanon <cþþþ>= Removes your anonymous staus, allowing other players to see your class, experience, area, and partymember information.\n<c þ >!settail <cþþþ>(must be targeted by tell or command targeter) = Changes the character's tail to the specified number, or removes it if 0 entered. The command format is <c´þd>!settail (tail number)<cþþþ>. May not be used on other DMs.\n<c þ >!setwings <cþþþ>(must be targeted by tell or command targeter) = Changes the character's wings to the specified number, or removes them if 0 entered. The command format is <c´þd>!setwing (wing number)<cþþþ>. May not be used on other DMs.\n<c þ >!ignore <cþþþ>(must be targeted by tell or command targeter) = You will not receive tells from the player you send this command to.\n<c þ >!unignore <cþþþ>(must be targeted by tell or command targeter) = Removes ignore status.\n<czzþ>!lfg <cþþþ>= Announces that you are looking for a group in shout."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "",
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 62545,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Chat Commands",
+      "4": "(OOC) Chat-Befehle"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 15
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 53
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "chatcommands"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "chatcommands"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "CS Rest: Use CON Bonus\nPlace a container object as per the instructions in the CS Resting documentation and put an instance of this item in the container to cause the CS Resting subsystem to award players their CON bonus as additional hit points regained when resting. This item has no effect if you are using Standard HP regain."
+    }
+  },
+  "Description": {
+    "id": 13315,
+    "type": "cexolocstring",
+    "value": {
+      "0": "One of the world's rarest and most coveted gems, alexandrite takes on a brilliant green hue when under indirect sunlight but turns blood-red when exposed to candlelight. Loretellers claim that all alexandrite comes from the body of the oldest son of Silvanus, the Forest Father. A common nursery rhyme goes \"Silvanus' wife went mad one night, murdering her child by candlelight.\""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13314,
+    "type": "cexolocstring",
+    "value": {
+      "0": "CS Rest: Use CON Bonus",
+      "4": "CS Rest: TP: KON Bonus an"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 14
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 3
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "CS_REST_USE_CON_BONUS"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "cs_rest_cfg_cony"
+  }
+}

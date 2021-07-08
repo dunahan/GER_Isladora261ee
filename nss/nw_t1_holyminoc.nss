@@ -1,0 +1,22 @@
+//::///////////////////////////////////////////////
+//:: Minor Holy Trap
+//:: NW_T1_HolyMinoC
+//:://////////////////////////////////////////////
+/*
+    Strikes the entering undead with a beam of pure
+    sunlight for 4d10 damage.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: The Krit
+//:: Created On: December 10, 2010
+//:://////////////////////////////////////////////
+
+
+#include "tk_trap_inc"
+
+
+void main()
+{
+    DoHolyTrap(d10(4), d4(2));
+}
+

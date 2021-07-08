@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 311
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Viel war los im großen weißen Rosenbusch am Parkeingang. \nBienen, Hummeln und Käfer umsummten hungrig die duftenden Blüten. \n\nOben im Busch auf einer Rose hatte es sich ein Schmetterling bequem gemacht. \nSchön sah er aus mit seinen rot-orange-blau-gelben Flügeln.\n \"Sieh mal! Ein bunter Schmetterling! Wie ein Schmuckstück sieht er aus.\"\n\n\"Ja, er ist prächtig\", meinte eine Frau. \"Er ähnelt einer Edelsteinbrosche.\"\n\nUnd doch ist diese Figur aus Stein gefertigt. In penibelster Kleinarbeit wurden Edelsteinsplitter eingesetzt, um das Licht in seinen Flügeln einzufangen und ihn zum Leuchten zu bringen."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Figur Schmetterling"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 40
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 2
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "it_schmetterling"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "it_schmetterling"
+  }
+}

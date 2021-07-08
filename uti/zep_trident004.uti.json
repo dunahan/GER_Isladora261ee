@@ -1,0 +1,86 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 300
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This is a new weapon for NWN. The only known issue with it is that it does not provide custom feats for weapon focus or weapon specialization."
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 30
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 16807822,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "id": 16807859,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 16807730,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 61
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 63
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 61
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 105
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "ZEP_TRIDENT004"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "zep_trident004"
+  }
+}

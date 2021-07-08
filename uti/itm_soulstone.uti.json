@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Dieser Seelenstein enthält ein klitzekleines bisschen Deiner Essenz. Mit diesen Steinen kannst Du leicht zurück zur materiellen Ebene finden."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Dieser Seelenstein enthält ein klitzekleines bisschen Deiner Essenz. Mit diesen Steinen kannst Du leicht zurück zur materiellen Ebene finden."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Seelenstein"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 56
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 65
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "itm_soulstone"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "itm_soulstone"
+  }
+}

@@ -382,6 +382,57 @@
               "Text": {
                 "type": "cexolocstring",
                 "value": {
+                  "4": "Liebe Servergemeinde,\n\nwir haben schon vor längerer Zeit schon überlegt wie wir die Spieler belohnen können, die bereits die Stufe 40 bei ihren Charakteren überschritten haben. Wir haben uns dann auf folgende Liste geeinigt. Vielen Dank nochmals an Draghetto und Antoss für ihre Ideen. Bitte versteht, diese Liste ist nicht in Stein gehauen und kann sich hier und da entsprechend der Situation des Servers/Spielers anpassen. Wir nehmen uns auch vor, weitere Belohnungen auszudenken und diese dann bei Erfolg auch in diese Liste mitaufzunehmen.\n\nNun aber zur Liste selbst!\n\n1) Haustiere.\n50.000 flexibel in Gold oder EP\n2) Persistente Truhe.\n50.000 flexibel in Gold oder EP\n3) Besondere Styles für Waffen, Rüstungen und Schilde.\n50.000 flexibel in Gold oder EP\n4) Von OOC-Raum in sein eigenes Spielerhaus zu porten.\n150.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold.\n5) Vom Spielerhaus in die beiden Hauptstädte zu porten.\nJe Stadt 100.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold.\n6) Werkstätten im Spielerhaus.\nPro Bank 100.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "7) Belohnungen für Charaktere 40+"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes007"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
                   "4": "EmptyNote"
                 }
               }
@@ -412,7 +463,7 @@
         }
       },
       {
-        "__struct_id": 8,
+        "__struct_id": 9,
         "Comment": {
           "type": "cexostring",
           "value": ""

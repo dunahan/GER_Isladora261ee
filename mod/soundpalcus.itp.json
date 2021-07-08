@@ -33,17 +33,6 @@
                 "type": "resref",
                 "value": "crps_pitopen"
               }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "cnrForgeFire"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cnrforgefire"
-              }
             }
           ]
         },
@@ -68,22 +57,6 @@
         "ID": {
           "type": "byte",
           "value": 7
-        },
-        "LIST": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "cnrBeeSounds"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "cnrbeesounds"
-              }
-            }
-          ]
         },
         "STRREF": {
           "type": "dword",

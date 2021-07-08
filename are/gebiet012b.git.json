@@ -985,11 +985,11 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": ""
+          "value": "ms_emblem"
         },
         "KeyRequired": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "LinkedTo": {
           "type": "cexostring",
@@ -1005,11 +1005,11 @@
         },
         "Lockable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Locked": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "LocName": {
           "id": 5349,
@@ -16064,7 +16064,7 @@
         },
         "Appearance": {
           "type": "dword",
-          "value": 157
+          "value": 130
         },
         "AutoRemoveKey": {
           "type": "byte",
@@ -16072,7 +16072,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.0
+          "value": -3.141592264175415
         },
         "BodyBag": {
           "type": "byte",
@@ -16088,15 +16088,19 @@
         },
         "CurrentHP": {
           "type": "short",
-          "value": 10
+          "value": 15
         },
         "Description": {
+          "id": 14687,
           "type": "cexolocstring",
-          "value": {}
+          "value": {
+            "0": "Hier geht es zu den Privaträumen der Magierschule.",
+            "4": "Hier geht es zu den Privaträumen der Magierschule."
+          }
         },
         "DisarmDC": {
           "type": "byte",
-          "value": 0
+          "value": 15
         },
         "Faction": {
           "type": "dword",
@@ -16104,7 +16108,7 @@
         },
         "Fort": {
           "type": "byte",
-          "value": 5
+          "value": 16
         },
         "Hardness": {
           "type": "byte",
@@ -16116,7 +16120,7 @@
         },
         "HP": {
           "type": "short",
-          "value": 10
+          "value": 15
         },
         "Interruptable": {
           "type": "byte",
@@ -16132,17 +16136,18 @@
         },
         "Lockable": {
           "type": "byte",
-          "value": 1
+          "value": 0
         },
         "Locked": {
           "type": "byte",
           "value": 0
         },
         "LocName": {
+          "id": 14688,
           "type": "cexolocstring",
           "value": {
-            "0": "Area Place Holder",
-            "4": "*Für-Area-Sytem-NOTWENDIG*"
+            "0": "Privaträume",
+            "4": "Privaträume"
           }
         },
         "OnClick": {
@@ -16207,15 +16212,15 @@
         },
         "OpenLockDC": {
           "type": "byte",
-          "value": 0
+          "value": 18
         },
         "Plot": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "PortraitId": {
           "type": "word",
-          "value": 515
+          "value": 488
         },
         "Ref": {
           "type": "byte",
@@ -16223,15 +16228,15 @@
         },
         "Static": {
           "type": "byte",
-          "value": 1
+          "value": 0
         },
         "Tag": {
           "type": "cexostring",
-          "value": "area_designator"
+          "value": "FreestandingMerchantsPlacard1"
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "area_designat004"
+          "value": "plc_placard1"
         },
         "TrapDetectable": {
           "type": "byte",
@@ -16263,7 +16268,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
@@ -16271,15 +16276,15 @@
         },
         "X": {
           "type": "float",
-          "value": 29.88025856018066
+          "value": 23.5
         },
         "Y": {
           "type": "float",
-          "value": 20.80987930297852
+          "value": 15.5
         },
         "Z": {
           "type": "float",
-          "value": 3.000000953674316
+          "value": 1.399999976158142
         }
       }
     ]

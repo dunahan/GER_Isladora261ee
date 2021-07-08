@@ -1,0 +1,22 @@
+//::///////////////////////////////////////////////
+//:: Average Holy Trap
+//:: NW_T1_HolyAvgC
+//:://////////////////////////////////////////////
+/*
+    Strikes the entering undead with a beam of pure
+    sunlight for 5d10 damage.
+*/
+//:://////////////////////////////////////////////
+//:: Created By: The Krit
+//:: Created On: December 10, 2010
+//:://////////////////////////////////////////////
+
+
+#include "tk_trap_inc"
+
+
+void main()
+{
+    DoHolyTrap(d10(5), d4(3));
+}
+

@@ -66,7 +66,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141583442687988
+          "value": -3.14158296585083
         },
         "CloseLockDC": {
           "type": "byte",
@@ -1202,7 +1202,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -3.141584873199463
+          "value": -3.141584396362305
         },
         "BodyBag": {
           "type": "byte",
@@ -1430,7 +1430,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.3926971554756165
+          "value": -0.3926971256732941
         },
         "BodyBag": {
           "type": "byte",
@@ -1655,7 +1655,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.1972218602895737
+          "value": -0.1972218304872513
         },
         "BodyBag": {
           "type": "byte",
@@ -1884,7 +1884,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -6.743478593307373e-007
+          "value": -6.743477456438995e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -2109,7 +2109,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -6.743478593307373e-007
+          "value": -6.743477456438995e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -2334,7 +2334,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -6.743478593307373e-007
+          "value": -6.743477456438995e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -2563,7 +2563,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -6.743478593307373e-007
+          "value": -6.743477456438995e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -3244,7 +3244,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -6.743478593307373e-007
+          "value": -6.743477456438995e-007
         },
         "BodyBag": {
           "type": "byte",
@@ -3472,7 +3472,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.945235013961792
+          "value": -2.945234537124634
         },
         "BodyBag": {
           "type": "byte",
@@ -3697,7 +3697,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.748887300491333
+          "value": -2.748886823654175
         },
         "BodyBag": {
           "type": "byte",
@@ -4597,7 +4597,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.552537441253662
+          "value": -2.552537202835083
         },
         "BodyBag": {
           "type": "byte",
@@ -5047,7 +5047,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.552537441253662
+          "value": -2.552537202835083
         },
         "BodyBag": {
           "type": "byte",
@@ -6178,7 +6178,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": 0.9326584935188294
+          "value": 0.9326584339141846
         },
         "BodyBag": {
           "type": "byte",
@@ -6405,7 +6405,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -2.822518587112427
+          "value": -2.822518348693848
         },
         "BodyBag": {
           "type": "byte",
@@ -7084,7 +7084,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.4908724725246429
+          "value": -0.4908724129199982
         },
         "BodyBag": {
           "type": "byte",
@@ -7753,7 +7753,7 @@
         },
         "Appearance": {
           "type": "dword",
-          "value": 157
+          "value": 4907
         },
         "AutoRemoveKey": {
           "type": "byte",
@@ -7761,7 +7761,7 @@
         },
         "Bearing": {
           "type": "float",
-          "value": -0.0
+          "value": 1.374446630477905
         },
         "BodyBag": {
           "type": "byte",
@@ -7773,27 +7773,30 @@
         },
         "Conversation": {
           "type": "resref",
-          "value": ""
+          "value": "tlk_namechanger"
         },
         "CurrentHP": {
           "type": "short",
-          "value": 10
+          "value": 15
         },
         "Description": {
+          "id": 84184,
           "type": "cexolocstring",
-          "value": {}
+          "value": {
+            "4": "Namensänderung gewünscht?\nDann legt euer Item vertrauensvoll in diese Truhe und sprecht den Namen, den ihr möchtet aus. \n\nWie von Zauberhand wird das Item neu benannt."
+          }
         },
         "DisarmDC": {
           "type": "byte",
-          "value": 0
+          "value": 15
         },
         "Faction": {
           "type": "dword",
-          "value": 1
+          "value": 2
         },
         "Fort": {
           "type": "byte",
-          "value": 5
+          "value": 16
         },
         "Hardness": {
           "type": "byte",
@@ -7801,11 +7804,11 @@
         },
         "HasInventory": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "HP": {
           "type": "short",
-          "value": 10
+          "value": 15
         },
         "Interruptable": {
           "type": "byte",
@@ -7821,17 +7824,18 @@
         },
         "Lockable": {
           "type": "byte",
-          "value": 1
+          "value": 0
         },
         "Locked": {
           "type": "byte",
           "value": 0
         },
         "LocName": {
+          "id": 83439,
           "type": "cexolocstring",
           "value": {
-            "0": "Area Place Holder",
-            "4": "*Für-Area-Sytem-NOTWENDIG*"
+            "0": "Kiste der Namen",
+            "4": "Kiste der Namen"
           }
         },
         "OnClick": {
@@ -7860,7 +7864,7 @@
         },
         "OnInvDisturbed": {
           "type": "resref",
-          "value": ""
+          "value": "con_renitm_ondis"
         },
         "OnLock": {
           "type": "resref",
@@ -7896,15 +7900,15 @@
         },
         "OpenLockDC": {
           "type": "byte",
-          "value": 0
+          "value": 18
         },
         "Plot": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "PortraitId": {
           "type": "word",
-          "value": 515
+          "value": 0
         },
         "Ref": {
           "type": "byte",
@@ -7912,15 +7916,15 @@
         },
         "Static": {
           "type": "byte",
-          "value": 1
+          "value": 0
         },
         "Tag": {
           "type": "cexostring",
-          "value": "area_designator"
+          "value": "plc_boxonames"
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "area_designat004"
+          "value": "plc_boxonames"
         },
         "TrapDetectable": {
           "type": "byte",
@@ -7952,7 +7956,7 @@
         },
         "Useable": {
           "type": "byte",
-          "value": 0
+          "value": 1
         },
         "Will": {
           "type": "byte",
@@ -7960,15 +7964,15 @@
         },
         "X": {
           "type": "float",
-          "value": 14.51466655731201
+          "value": 6.699056148529053
         },
         "Y": {
           "type": "float",
-          "value": 4.548396110534668
+          "value": 22.77385139465332
         },
         "Z": {
           "type": "float",
-          "value": 3.0
+          "value": -5.7220458984375e-006
         }
       }
     ]
@@ -8012,7 +8016,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -8029,7 +8033,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "hw_arid"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -8076,7 +8115,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -8093,11 +8132,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_vongan"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.3826874494552612
+          "value": -0.3826912045478821
         },
         "XPosition": {
           "type": "float",
@@ -8105,7 +8179,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.9238778352737427
+          "value": -0.9238762855529785
         },
         "YPosition": {
           "type": "float",
@@ -8140,7 +8214,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_PR01T1"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -8157,11 +8231,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_defen"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_PR01T1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_actor_07"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.9807854890823364
+          "value": -0.9807859659194946
         },
         "XPosition": {
           "type": "float",
@@ -8169,7 +8278,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.1950892806053162
+          "value": -0.1950868219137192
         },
         "YPosition": {
           "type": "float",
@@ -8221,11 +8330,11 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_route"
+          "value": "route_point"
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.9238801598548889
+          "value": -0.9238810539245606
         },
         "XPosition": {
           "type": "float",
@@ -8233,7 +8342,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.3826818466186523
+          "value": -0.3826797604560852
         },
         "YPosition": {
           "type": "float",
@@ -8285,11 +8394,11 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_route"
+          "value": "route_point"
         },
         "XOrientation": {
           "type": "float",
-          "value": 0.9807859659194946
+          "value": 0.9807864427566528
         },
         "XPosition": {
           "type": "float",
@@ -8297,7 +8406,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.1950868219137192
+          "value": -0.1950846016407013
         },
         "YPosition": {
           "type": "float",
@@ -8349,7 +8458,7 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_route"
+          "value": "route_point"
         },
         "XOrientation": {
           "type": "float",
@@ -8396,7 +8505,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -8413,7 +8522,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "aqunsc_bolgurt"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",

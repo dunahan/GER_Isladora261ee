@@ -1573,15 +1573,7 @@
   },
   "StoreList": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 11,
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        }
-      }
-    ]
+    "value": []
   },
   "TriggerList": {
     "type": "list",

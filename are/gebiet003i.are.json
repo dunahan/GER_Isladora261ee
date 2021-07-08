@@ -87,7 +87,7 @@
   "Name": {
     "type": "cexolocstring",
     "value": {
-      "4": "Isanla's goldener Schnitt"
+      "4": "Porta Plata - Isanla's goldener Schnitt"
     }
   },
   "NoRest": {
@@ -849,7 +849,7 @@
   },
   "Version": {
     "type": "dword",
-    "value": 38
+    "value": 40
   },
   "Width": {
     "type": "int",

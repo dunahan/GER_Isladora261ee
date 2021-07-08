@@ -27,17 +27,6 @@
                       "type": "resref",
                       "value": "shared_res_track"
                     }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Wegpunkt Townportale"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "waypoint001"
-                    }
                   }
                 ]
               },
@@ -51,88 +40,6 @@
               "ID": {
                 "type": "byte",
                 "value": 1
-              },
-              "LIST": {
-                "type": "list",
-                "value": [
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(Gruppe) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_group"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(Händler) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_haend"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(Monster) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_mon"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(NSC) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_nsc"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(Verteidiger) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_defen"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "(Verteidiger-Route) Enter Config Here"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "spawnpoint_route"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "DUN_OTN_CNC"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "random_dungeon"
-                    }
-                  }
-                ]
               },
               "STRREF": {
                 "type": "dword",
@@ -225,17 +132,6 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "HABD_BindStone_UtilsWaypoint"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "habd_bindstone_u"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
                 "value": "Hidden Object Marker"
               },
               "RESREF": {
@@ -252,17 +148,6 @@
               "RESREF": {
                 "type": "resref",
                 "value": "crpw_rallypoint"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Resource Map Note"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "tink_resnote"
               }
             },
             {
@@ -291,7 +176,18 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "Trigger Map Note"
+                "value": "TINK Resource Map Note"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "tink_resnote"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "TINK Trigger Map Note"
               },
               "RESREF": {
                 "type": "resref",

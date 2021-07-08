@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName sk_newsflags
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 01.01.2010 12:22:25
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+object     oNews = GetObjectByTag("plc_aktuelleshinweise");
+
+  // Lokale Variablen sichten
+  if(!(GetLocalInt(oNews, "active") == 1))
+    return FALSE;
+  return TRUE;
+}

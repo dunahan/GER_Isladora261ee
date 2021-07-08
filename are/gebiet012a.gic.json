@@ -1522,7 +1522,14 @@
         "__struct_id": 9,
         "Comment": {
           "type": "cexostring",
-          "value": ""
+          "value": "Signpost - 2"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Sources\r\nEd Greenwood, Sean K. Reynolds, Skip Williams, Rob Heinsoo (June 2001). Forgotten Realms Campaign Setting 3rd edition. (Wizards of the Coast). ISBN 0-7869-1836-5.\r\nEd Greenwood (1994). Volo's Guide to the Sword Coast. (TSR, Inc). ISBN 1-5607-6940-1."
         }
       }
     ]
@@ -1533,15 +1540,7 @@
   },
   "StoreList": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 11,
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        }
-      }
-    ]
+    "value": []
   },
   "TriggerList": {
     "type": "list",

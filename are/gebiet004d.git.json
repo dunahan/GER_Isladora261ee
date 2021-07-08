@@ -83,9 +83,7 @@
         "Description": {
           "id": 9078,
           "type": "cexolocstring",
-          "value": {
-            "4": ""
-          }
+          "value": {}
         },
         "DisarmDC": {
           "type": "byte",
@@ -996,9 +994,7 @@
         "Description": {
           "id": 16810924,
           "type": "cexolocstring",
-          "value": {
-            "0": ""
-          }
+          "value": {}
         },
         "DisarmDC": {
           "type": "byte",
@@ -1225,9 +1221,7 @@
         "Description": {
           "id": 16810924,
           "type": "cexolocstring",
-          "value": {
-            "0": ""
-          }
+          "value": {}
         },
         "DisarmDC": {
           "type": "byte",

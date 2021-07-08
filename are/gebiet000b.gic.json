@@ -96,15 +96,7 @@
   },
   "Placeable List": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 9,
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        }
-      }
-    ]
+    "value": []
   },
   "SoundList": {
     "type": "list",

@@ -1,0 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+// unSummon your horse
+///////////////////////////////////////////////////////////////////////////////
+#include "x3_inc_horse"
+
+
+void main()
+{
+  object oHorse = OBJECT_SELF;
+  object oPC = GetPCSpeaker();
+
+  HorseRemoveOwner(oHorse);
+  DestroyObject(oHorse, 1.0);
+  HorseSaveToDatabase(oPC, X3_HORSE_DATABASE);
+}

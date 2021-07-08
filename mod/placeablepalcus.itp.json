@@ -45,28 +45,6 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
-                            "value": "Portal"
-                          },
-                          "RESREF": {
-                            "type": "resref",
-                            "value": "town_portal_orig"
-                          }
-                        },
-                        {
-                          "__struct_id": 0,
-                          "NAME": {
-                            "type": "cexostring",
-                            "value": "Portal"
-                          },
-                          "RESREF": {
-                            "type": "resref",
-                            "value": "town_portal_town"
-                          }
-                        },
-                        {
-                          "__struct_id": 0,
-                          "NAME": {
-                            "type": "cexostring",
                             "value": "Teleportkontainer"
                           },
                           "RESREF": {
@@ -53098,17 +53076,6 @@
               },
               "RESREF": {
                 "type": "resref",
-                "value": "saddlebag"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Chest"
-              },
-              "RESREF": {
-                "type": "resref",
                 "value": "shop_savechest"
               }
             },
@@ -61489,17 +61456,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "zep_demi_skull"
-                    },
-                    "STRREF": {
-                      "type": "dword",
-                      "value": 16814224
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "zep_demi_skull0"
                     },
                     "STRREF": {
                       "type": "dword",
@@ -91677,17 +91633,6 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Fireworks Source"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "fireworkssource"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Invisible Object"
                     },
                     "RESREF": {
@@ -91699,33 +91644,11 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Large Fireworks Target"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "fireworksltarget"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Magic Coin"
                     },
                     "RESREF": {
                       "type": "resref",
                       "value": "crp_luckycoin"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Medium Fireworks Target"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "fireworksmtarget"
                     }
                   },
                   {
@@ -91748,17 +91671,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "ll_setup"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Small Fireworks Target"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "fireworksstarget"
                     }
                   }
                 ]
@@ -91951,6 +91863,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "sec_druidkluft_a"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Riss im Fels"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sec_druidkluft_b"
                     }
                   },
                   {
@@ -97584,50 +97507,6 @@
                 "value": [
                   {
                     "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Adamantfelsen"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrrockadam"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Alexandrit Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit013"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Amethyst Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit003"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Aventurin Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit014"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
                     "RESREF": {
                       "type": "resref",
                       "value": "zep_bricks001"
@@ -97685,17 +97564,6 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Diamanten Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit005"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Edelstein, Diamant"
                     },
                     "RESREF": {
@@ -97740,7 +97608,183 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Eisenfelsen"
+                      "value": "Edelsteinvorkommen Alexandrit"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit013"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Amethyst"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Aventurin"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit014"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Diamanten"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Feldspat"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit015"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Feuerachat"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Feueropal"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit009"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Granat"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit011"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Grünstein"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Malachit"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit007"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Phenalope"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Rubin"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Saphir"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit008"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Smaragd"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit012"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Edelsteinvorkommen Topaz"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrgemdeposit010"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Erzvorkommen Adamant"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrrockadam"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Erzvorkommen Eisen"
                     },
                     "RESREF": {
                       "type": "resref",
@@ -97751,11 +97795,44 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Feldspat Ansammlung"
+                      "value": "Erzvorkommen Gold"
                     },
                     "RESREF": {
                       "type": "resref",
-                      "value": "cnrgemdeposit015"
+                      "value": "cnrrockgold"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Erzvorkommen Mithril"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrrockmith"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Erzvorkommen Platin"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrrockplat"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Erzvorkommen Silber"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrrocksilv"
                     }
                   },
                   {
@@ -98218,61 +98295,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "dre_felsen010"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Feuerachat Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit002"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Feueropal Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit009"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Goldfelsen"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrrockgold"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Granat Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit011"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Grünstein Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit001"
                     }
                   },
                   {
@@ -99918,17 +99940,6 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Malachit Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit007"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Mineral (Grün, gebrochen)"
                     },
                     "RESREF": {
@@ -100829,39 +100840,6 @@
                   },
                   {
                     "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Mithrilfelsen"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrrockmith"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Phenalope Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit004"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Platinfelsen"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrrockplat"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
                     "RESREF": {
                       "type": "resref",
                       "value": "zep_gardenstn001"
@@ -100908,55 +100886,11 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Rubin Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit006"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Sand Ablagerung"
                     },
                     "RESREF": {
                       "type": "resref",
                       "value": "cnrdepositsand"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Saphir Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit008"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Silberfelsen"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrrocksilv"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Smaragd Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit012"
                     }
                   },
                   {
@@ -103927,17 +103861,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "cnrdepositclay"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Topaz Ansammlung"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrgemdeposit010"
                     }
                   }
                 ]

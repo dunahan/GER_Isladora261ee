@@ -1,0 +1,115 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 2
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 34
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1002
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 58572,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Beauftragter für Forstwirtschaft und Jagd\n\nDer Träger dieser Hornplakette weist sich als Beauftrager für Forstwirtschaft und Jagd auf Isladora aus.\n\nFürderhin ist er zuständig die Wälder der Insel auf ihren Bestand zu prüfen und gesund zu erhalten.\nDies gilt in gleichem Maße für die Tiere.\n\nKrankheiten, Bedrohungen, Rodungen und dgl. sind der Regentschaft umgehend zu melden.\n\nWilderer sind der Regentschaft zu melden.\nDer Habhaftwerdung von Wilderern ist der Beauftragte für Forstwirtschaft und Jagd bevollmächtigt sich Unterstützung durch die Garde einzuholen.\n\nDies gilt ebenso für die Festsetzung von Verbrechern oder Flüchtigen, welche in den Wäldern Isladoras Unterschlupf suchen."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13500,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Beauftragter für Forstwirtschaft und Jagd"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 68
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 142
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "eski_emblemwaldjagd"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "eski_embwaldjagd"
+  }
+}

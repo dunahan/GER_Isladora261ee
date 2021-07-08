@@ -106,7 +106,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "4": "Hallo <FirstName>, hier kannst Du Deine Farbdarstellung beim Chat voreinstellen, bzw. auch wieder auf Standard zurück setzen.\nBedenke, diese Änderung wirkt sich auf ALLE Deine Charaktere aus und evtl. hat bereits ein anderer Mitspieler die gleiche Farbe genutzt."
+            "4": "Hallo <FirstName>, hier kannst Du Deine Farbdarstellung beim Chat voreinstellen, bzw. auch wieder auf Standard zurück setzen.\nBedenke, diese Änderung wirkt sich auf nur auf diesen Charakter aus und evtl. hat bereits ein anderer Mitspieler die gleiche Farbe genutzt."
           }
         }
       },
@@ -386,7 +386,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 102
+    "value": 71
   },
   "PreventZoomIn": {
     "type": "byte",
@@ -611,7 +611,27 @@
         },
         "EntriesList": {
           "type": "list",
-          "value": []
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "Index": {
+                "type": "dword",
+                "value": 0
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
         },
         "Quest": {
           "type": "cexostring",
@@ -661,7 +681,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -722,7 +742,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -783,7 +803,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -844,7 +864,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -905,7 +925,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -966,7 +986,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -1027,7 +1047,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -1088,7 +1108,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -1149,7 +1169,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",
@@ -1210,7 +1230,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 0
               },
               "IsChild": {
                 "type": "byte",

@@ -57783,232 +57783,6 @@
         },
         "Appearance": {
           "type": "dword",
-          "value": 157
-        },
-        "AutoRemoveKey": {
-          "type": "byte",
-          "value": 0
-        },
-        "Bearing": {
-          "type": "float",
-          "value": -0.0
-        },
-        "BodyBag": {
-          "type": "byte",
-          "value": 0
-        },
-        "CloseLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Conversation": {
-          "type": "resref",
-          "value": ""
-        },
-        "CurrentHP": {
-          "type": "short",
-          "value": 10
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "DisarmDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Faction": {
-          "type": "dword",
-          "value": 1
-        },
-        "Fort": {
-          "type": "byte",
-          "value": 5
-        },
-        "Hardness": {
-          "type": "byte",
-          "value": 5
-        },
-        "HasInventory": {
-          "type": "byte",
-          "value": 0
-        },
-        "HP": {
-          "type": "short",
-          "value": 10
-        },
-        "Interruptable": {
-          "type": "byte",
-          "value": 1
-        },
-        "KeyName": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "KeyRequired": {
-          "type": "byte",
-          "value": 0
-        },
-        "Lockable": {
-          "type": "byte",
-          "value": 1
-        },
-        "Locked": {
-          "type": "byte",
-          "value": 0
-        },
-        "LocName": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Area Place Holder",
-            "4": "*Für-Area-Sytem-NOTWENDIG*"
-          }
-        },
-        "OnClick": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnClosed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDamaged": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDeath": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnDisarm": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnHeartbeat": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnInvDisturbed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnLock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnMeleeAttacked": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnOpen": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnSpellCastAt": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnTrapTriggered": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUnlock": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUsed": {
-          "type": "resref",
-          "value": ""
-        },
-        "OnUserDefined": {
-          "type": "resref",
-          "value": ""
-        },
-        "OpenLockDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "Plot": {
-          "type": "byte",
-          "value": 0
-        },
-        "PortraitId": {
-          "type": "word",
-          "value": 515
-        },
-        "Ref": {
-          "type": "byte",
-          "value": 0
-        },
-        "Static": {
-          "type": "byte",
-          "value": 1
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "area_designator"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "area_designat004"
-        },
-        "TrapDetectable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapDetectDC": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapDisarmable": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapFlag": {
-          "type": "byte",
-          "value": 0
-        },
-        "TrapOneShot": {
-          "type": "byte",
-          "value": 1
-        },
-        "TrapType": {
-          "type": "byte",
-          "value": 0
-        },
-        "Type": {
-          "type": "byte",
-          "value": 0
-        },
-        "Useable": {
-          "type": "byte",
-          "value": 0
-        },
-        "Will": {
-          "type": "byte",
-          "value": 0
-        },
-        "X": {
-          "type": "float",
-          "value": 35.0
-        },
-        "Y": {
-          "type": "float",
-          "value": 40.0
-        },
-        "Z": {
-          "type": "float",
-          "value": 9.0
-        }
-      },
-      {
-        "__struct_id": 9,
-        "AnimationState": {
-          "type": "byte",
-          "value": 0
-        },
-        "Appearance": {
-          "type": "dword",
           "value": 3159
         },
         "AutoRemoveKey": {
@@ -70688,7 +70462,7 @@
         },
         "Conversation": {
           "type": "resref",
-          "value": "bbs_menu"
+          "value": ""
         },
         "CurrentHP": {
           "type": "short",
@@ -70698,8 +70472,8 @@
           "id": 14717,
           "type": "cexolocstring",
           "value": {
-            "0": "A bulletin board to read and post messages. A scribe is needed to write a message.",
-            "4": "Durch die Gnade der Götter, unterstehen beide Städte Porta Plata und Corazur der Jurisdiktion unseres hochwohlgeborenen und geliebten Barones Marian, Ludwig, Leopold, Karl Gustav von Glenshire. Dieser legt für die beiden Städte Porta Plata und Corazur, Kraft der ihm von den Göttern verliehenen Macht, folgende Gesetze fest.\n\n 1. Es ist verboten sich innerhalb der Orte durch tragen einer Kopfbedeckung zu verhüllen. Jeder hat jederzeit offen sein Gesicht zu zeigen, wer es nicht tut führt wohl nichts gutes im Schilde.\n\n 2. Das offene Tragen von Waffen ist ohne eine Waffenlizens verboten.\n Gezückte Waffen versetzen die Bewohner in Angst.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n 3. Das ausüben jedweder Magie ist ohne Magielizens verboten.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n Der verantwortungsvolle Umgang mit Magie sollte ihm nachgewiesen werden können.\n\n 4. Nekromanie und unnatürliche Experimente an Toten, sind strengstens untersagt und ziehen drastische Strafen nach sich.\n\n 5. Ketzerei, Gotteslästerung und Gottlosigkeit in Worten und Taten sind strengstens verboten.\n\n 6. Diebstahl, Raub, Mord, Erpressung und jedwede Handlung die nach moralischem Handeln einem friedlichen Miteinander abträglich erscheint, sind verboten.\n\n 7. Unsittliche Bemerkungen, das Belästigen der Weiber und sexuelle Handlungen in der Öffentlichkeit sind verboten.\n\n 8. Rassistische Reden gegen andere Rassen sind verboten. Tatsachen dürfen geäussert werden.\n\n 9. Selbstjustiz ist verboten, alle Straftaten, ohne Ausnahme, sind der Wache zu melden.\n\n 10. Den Anweisungen der Wache ist Folge zu leisten, Angriffe auf die Wache in Worten und Taten werden strengstens bestraft.\nDie Wachen vertreten das Gesetz und somit unseren hochwohlgebohrenen Baron höchstselbst.\n\n 11. Es ist streng verboten ohne Lizenz magisch herbeigezauberte Wesen, oder tierische Begleiter mit in die Städte zu bringen.\n Wir wollen nicht, dass sich das einfache Volk, dass die Götter unserer Fürsorge unterstellten, ängstigen muss. Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n Über Streitfälle und Strafmass entscheidet unser geliebter Herrscher, oder ein von ihm benannter Richter."
+            "0": "Durch die Gnade der Götter, unterstehen beide Städte Porta Plata und Corazur der Jurisdiktion unseres hochwohlgeborenen und geliebten Barones Marian, Ludwig, Leopold, Karl Gustav von Glenshire. Dieser legt für die beiden Städte Porta Plata und Corazur, Kraft der ihm von den Göttern verliehenen Macht, folgende Gesetze fest.\n\n 1. Es ist verboten sich innerhalb der Orte durch tragen einer Kopfbedeckung zu verhüllen. Jeder hat jederzeit offen sein Gesicht zu zeigen, wer es nicht tut führt wohl nichts gutes im Schilde.\n\n 2. Das offene Tragen von Waffen ist ohne eine Waffenlizenz verboten.\n Gezückte Waffen versetzen die Bewohner in Angst.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n 3. Das ausüben jedweder Magie ist ohne Magielizenz verboten.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n Der verantwortungsvolle Umgang mit Magie sollte ihm nachgewiesen werden können.\n\n 4. Nekromanie und unnatürliche Experimente an Toten, sind strengstens untersagt und ziehen drastische Strafen nach sich.\n\n 5. Ketzerei, Gotteslästerung und Gottlosigkeit in Worten und Taten sind strengstens verboten.\n\n 6. Diebstahl, Raub, Mord, Erpressung und jedwede Handlung die nach moralischem Handeln einem friedlichen Miteinander abträglich erscheint, sind verboten.\n\n 7. Unsittliche Bemerkungen, das Belästigen der Weiber und sexuelle Handlungen in der Öffentlichkeit sind verboten.\n\n 8. Rassistische Reden gegen andere Rassen sind verboten. Tatsachen dürfen geäussert werden.\n\n 9. Selbstjustiz ist verboten, alle Straftaten, ohne Ausnahme, sind der Wache zu melden.\n\n 10. Den Anweisungen der Wache ist Folge zu leisten, Angriffe auf die Wache in Worten und Taten werden strengstens bestraft.\nDie Wachen vertreten das Gesetz und somit unseren hochwohlgebohrenen Baron höchstselbst.\n\n 11. Es ist streng verboten ohne Lizenz magisch herbeigezauberte Wesen, oder tierische Begleiter mit in die Städte zu bringen.\n Wir wollen nicht, dass sich das einfache Volk, dass die Götter unserer Fürsorge unterstellten, ängstigen muss. Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n Über Streitfälle und Strafmass entscheidet unser geliebter Herrscher, oder ein von ihm benannter Richter.\n\n((OOC: Es können sich Änderungen ergeben, die hier nicht immer rechtzeitig aktualisiert werden können. Deswegen ist das Forum zu besuchen.))",
+            "4": "Durch die Gnade der Götter, unterstehen beide Städte Porta Plata und Corazur der Jurisdiktion unseres hochwohlgeborenen und geliebten Barones Marian, Ludwig, Leopold, Karl Gustav von Glenshire. Dieser legt für die beiden Städte Porta Plata und Corazur, Kraft der ihm von den Göttern verliehenen Macht, folgende Gesetze fest.\n\n 1. Es ist verboten sich innerhalb der Orte durch tragen einer Kopfbedeckung zu verhüllen. Jeder hat jederzeit offen sein Gesicht zu zeigen, wer es nicht tut führt wohl nichts gutes im Schilde.\n\n 2. Das offene Tragen von Waffen ist ohne eine Waffenlizenz verboten.\n Gezückte Waffen versetzen die Bewohner in Angst.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n 3. Das ausüben jedweder Magie ist ohne Magielizenz verboten.\n Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n Der verantwortungsvolle Umgang mit Magie sollte ihm nachgewiesen werden können.\n\n 4. Nekromanie und unnatürliche Experimente an Toten, sind strengstens untersagt und ziehen drastische Strafen nach sich.\n\n 5. Ketzerei, Gotteslästerung und Gottlosigkeit in Worten und Taten sind strengstens verboten.\n\n 6. Diebstahl, Raub, Mord, Erpressung und jedwede Handlung die nach moralischem Handeln einem friedlichen Miteinander abträglich erscheint, sind verboten.\n\n 7. Unsittliche Bemerkungen, das Belästigen der Weiber und sexuelle Handlungen in der Öffentlichkeit sind verboten.\n\n 8. Rassistische Reden gegen andere Rassen sind verboten. Tatsachen dürfen geäussert werden.\n\n 9. Selbstjustiz ist verboten, alle Straftaten, ohne Ausnahme, sind der Wache zu melden.\n\n 10. Den Anweisungen der Wache ist Folge zu leisten, Angriffe auf die Wache in Worten und Taten werden strengstens bestraft.\nDie Wachen vertreten das Gesetz und somit unseren hochwohlgebohrenen Baron höchstselbst.\n\n 11. Es ist streng verboten ohne Lizenz magisch herbeigezauberte Wesen, oder tierische Begleiter mit in die Städte zu bringen.\n Wir wollen nicht, dass sich das einfache Volk, dass die Götter unserer Fürsorge unterstellten, ängstigen muss. Eine Lizenz ist beim hochwohlgebohrenen Baron höchstselbst zu beantragen.\n\n Über Streitfälle und Strafmass entscheidet unser geliebter Herrscher, oder ein von ihm benannter Richter.\n\n((OOC: Es können sich Änderungen ergeben, die hier nicht immer rechtzeitig aktualisiert werden können. Deswegen ist das Forum zu besuchen.))"
           }
         },
         "DisarmDC": {
@@ -70808,7 +70582,7 @@
         },
         "OnUsed": {
           "type": "resref",
-          "value": "bbs_start"
+          "value": ""
         },
         "OnUserDefined": {
           "type": "resref",
@@ -70824,7 +70598,7 @@
         },
         "PortraitId": {
           "type": "word",
-          "value": 0
+          "value": 10276
         },
         "Ref": {
           "type": "byte",
@@ -79268,7 +79042,9 @@
           "id": 16813670,
           "type": "cexolocstring",
           "value": {
-            "4": "Abgesandter für Bürgerbelange Corazur´s-> Reno Cédex\n\n Ausbilder der Bürgerwehr-> Melina Dalbane\n\n Beauftragter für Forstwirtschaft und Jagd-> derzeit unbesetzt\n\n Gesandter der Akademie zu Corazur-> Gallad Enhaushed´van\n\n Gesandter klerikaler Belange-> derzeit unbesetzt\n\n Hafenmeister zu Porta Plata-> William MacBradaig\n\n Vorsteher Porta Plata-> Sarafeé Albae\n\n Die eingesetzten Ratsmitglieder verfügen über die Pflichten ihr Amt treu der Baronschaft gegenüber zu erfüllen und zum Wohle der Bürgerschaft.\n\n In Fällen der Not, Krieg, Unterbindung einer Straftat, als auch Verfolgung von Straftätern besitzen die Ratsmitglieder das Privileg Mitglieder der Garde zur Unterstützung aufzufordern.\n Dieser Aufforderung ist nachzukommen, wer sich derer wiedersetzt macht sich selbst strafbar.\n\n Ratsmitglieder besitzen Embleme (Brosche bzw. Anstecknadel), welche sie bei sich zu tragen und auf Anweisung vorzuzeigen haben."
+            "0": "Ortsvorsteher von Corazur: Frau Keyko Okawa\nOrtsvorsteher von Porta Plata: Frau Sarafeé Albae\n\nBeauftragter der Miliz/Bürgerwehr: Herr Fandarel Dunkelmond\nStrategischer Berater für militärische Belange: Herr Anarion Heramor\n\nDie Insignien der Ratsmitglieder haben ihre Bedeutung verloren und sind bei den oben genannten Personen abzugeben.\n\n((OOC: Es können sich Änderungen ergeben, die hier nicht immer rechtzeitig aktualisiert werden können. Deswegen ist das Forum zu besuchen.))",
+            "2": "A sign demarking the workplace of a craftsman.",
+            "4": "Ortsvorsteher von Corazur: Frau Keyko Okawa\nOrtsvorsteher von Porta Plata: Frau Sarafeé Albae\n\nBeauftragter der Miliz/Bürgerwehr: Herr Fandarel Dunkelmond\nStrategischer Berater für militärische Belange: Herr Anarion Heramor\n\nDie Insignien der Ratsmitglieder haben ihre Bedeutung verloren und sind bei den oben genannten Personen abzugeben.\n\n((OOC: Es können sich Änderungen ergeben, die hier nicht immer rechtzeitig aktualisiert werden können. Deswegen ist das Forum zu besuchen.))"
           }
         },
         "DisarmDC": {
@@ -79319,7 +79095,7 @@
           "id": 16812708,
           "type": "cexolocstring",
           "value": {
-            "4": "Auflistung der Räte"
+            "4": "Anschlag"
           }
         },
         "OnClick": {
@@ -84194,7 +83970,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_SN01_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84211,7 +83987,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_gr001"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_SN01_SA_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "city_animal"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84258,7 +84069,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_SN03_SA_RW_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84275,7 +84086,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_mo001"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_SN03_SA_RW_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "cnrchicken"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84322,7 +84168,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84339,7 +84185,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_nsc"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_junge_01"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84386,7 +84267,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84403,7 +84284,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_nsc"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_junge_06"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84450,7 +84366,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84467,7 +84383,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_nsc"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_junge_04"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84514,7 +84465,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_SN01_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84531,7 +84482,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_SN01_SA_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "city_animal"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84578,7 +84564,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_SN01_SA_RW_PCR_SG"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84595,7 +84581,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_group"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_SN01_SA_RW_PCR_SG"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "city_animal"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84642,7 +84663,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84659,11 +84680,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_blumenmaedl"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.195972740650177
+          "value": -0.1959774196147919
         },
         "XPosition": {
           "type": "float",
@@ -84671,7 +84727,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.9806093573570252
+          "value": -0.9806084036827087
         },
         "YPosition": {
           "type": "float",
@@ -84706,7 +84762,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84723,11 +84779,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_sharto"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.3827075064182282
+          "value": -0.3827119171619415
         },
         "XPosition": {
           "type": "float",
@@ -84735,7 +84826,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": -0.9238695502281189
+          "value": -0.9238677620887756
         },
         "YPosition": {
           "type": "float",
@@ -84770,7 +84861,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84787,7 +84878,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_ha001"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_sonja"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84834,7 +84960,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84851,7 +84977,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_ramir"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84898,7 +85059,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84915,7 +85076,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_sophia"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -84962,7 +85158,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -84981,7 +85177,42 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "bbs_scribe_bp"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
@@ -85028,7 +85259,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "4": "SP_PCR_SF"
+            "4": "Spawnpoint"
           }
         },
         "MapNote": {
@@ -85045,11 +85276,46 @@
         },
         "TemplateResRef": {
           "type": "resref",
-          "value": "spawnpoint_haend"
+          "value": "spawn_point"
+        },
+        "VarTable": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "SP_PCR_SF"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "Name": {
+                "type": "cexostring",
+                "value": "NESS_TAG"
+              },
+              "Type": {
+                "type": "dword",
+                "value": 3
+              },
+              "Value": {
+                "type": "cexostring",
+                "value": "nsc_nathan_miliz"
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.8314666152000427
+          "value": -0.8314656615257263
         },
         "XPosition": {
           "type": "float",
@@ -85057,7 +85323,7 @@
         },
         "YOrientation": {
           "type": "float",
-          "value": 0.5555747151374817
+          "value": 0.5555761456489563
         },
         "YPosition": {
           "type": "float",
@@ -85169,7 +85435,7 @@
         },
         "XOrientation": {
           "type": "float",
-          "value": 7.303553047677269e-006
+          "value": 1.231034366355743e-005
         },
         "XPosition": {
           "type": "float",

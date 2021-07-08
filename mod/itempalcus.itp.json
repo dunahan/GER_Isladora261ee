@@ -1121,17 +1121,6 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
-                            "value": "Flying Control Widget"
-                          },
-                          "RESREF": {
-                            "type": "resref",
-                            "value": "fly_widget"
-                          }
-                        },
-                        {
-                          "__struct_id": 0,
-                          "NAME": {
-                            "type": "cexostring",
                             "value": "horse_dismt"
                           },
                           "RESREF": {
@@ -1814,6 +1803,17 @@
                     "STRREF": {
                       "type": "dword",
                       "value": 16807606
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "NSC Sergio"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "nsc_sergio"
                     }
                   },
                   {
@@ -5409,6 +5409,17 @@
                     "__struct_id": 0,
                     "RESREF": {
                       "type": "resref",
+                      "value": "it_crewps070"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 90699
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
                       "value": "zep_cre_xornb"
                     },
                     "STRREF": {
@@ -7563,6 +7574,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "NSC Wahrer Blick Ring"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "itm_wahrblick"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Ogre Hide"
                     },
                     "RESREF": {
@@ -9612,6 +9634,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Federn"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrfeathers"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Fichtenholz"
                     },
                     "RESREF": {
@@ -9672,6 +9705,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "hw_resempbuck"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Lichtedelstein"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnr_lightgem"
                     }
                   },
                   {
@@ -9914,17 +9958,6 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
-                      "value": "Holzfällerbeil"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrwoodcutteraxe"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
                       "value": "Jagdmesser"
                     },
                     "RESREF": {
@@ -10018,17 +10051,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "cnrscribetools"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Sichel für Zweige"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cnrwoodcuttersic"
                     }
                   },
                   {
@@ -11721,6 +11743,17 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
+                            "value": "Amulett der Gesundheit +3"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "itm_amuvitalthre"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
                             "value": "Gesundheitsamulett +1"
                           },
                           "RESREF": {
@@ -12057,6 +12090,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Emblem der Magierschule"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ms_emblem"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Feenstaubmedallie"
                     },
                     "RESREF": {
@@ -12244,6 +12288,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Schlüssel"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "key_template"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Schlüssel des Bürgermeisters"
                     },
                     "RESREF": {
@@ -12304,6 +12359,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "key_badboys"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Schulleiter der Magierschule"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ms_schulleiter"
                     }
                   },
                   {
@@ -12447,105 +12513,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "key_ultimate"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zum betrunkenen Dachs (Zimmer 1)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cr_tavtuer_1"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zum betrunkenen Dachs (Zimmer 2)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cr_tavtuer_2"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zum betrunkenen Dachs (Zimmer 3)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cr_tavtuer_3"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zum betrunkenen Dachs (Zimmer 4)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cr_tavtuer_4"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zum betrunkenen Dachs (Zimmer 5)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "cr_tavtuer_5"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zur letzten Einkehr (Zimmer 1)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "pp_tavtuer_1"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zur letzten Einkehr (Zimmer 2)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "pp_tavtuer_2"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zur letzten Einkehr (Zimmer 3)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "pp_tavtuer_3"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Zur letzten Einkehr (Zimmer 4)"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "pp_tavtuer_4"
                     }
                   },
                   {
@@ -15020,17 +14987,6 @@
         "LIST": {
           "type": "list",
           "value": [
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Ansammlung Portalschriftrollen"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "townportal"
-              }
-            },
             {
               "__struct_id": 0,
               "NAME": {
@@ -18745,28 +18701,6 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
-                "value": "(SL) Chat-Befehle - Modulweit"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "fky_chat_ventril"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "(SL) Chat-Befehle - SC/NSC"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "fky_chat_target"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
                 "value": "(SL) Gegenstand (Verändern)"
               },
               "RESREF": {
@@ -18877,6 +18811,17 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
+                "value": "Begleiter kommandieren"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "x3_pl_tool01"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
                 "value": "DM Death Statistics"
               },
               "RESREF": {
@@ -18893,17 +18838,6 @@
               "RESREF": {
                 "type": "resref",
                 "value": "habd_dmdeath"
-              }
-            },
-            {
-              "__struct_id": 0,
-              "NAME": {
-                "type": "cexostring",
-                "value": "Firework Wand"
-              },
-              "RESREF": {
-                "type": "resref",
-                "value": "g_firework_wand"
               }
             },
             {
@@ -19013,11 +18947,33 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
+                            "value": "Feuerballpfeil"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_firebarr"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
                             "value": "Geweihte Pfeile"
                           },
                           "RESREF": {
                             "type": "resref",
                             "value": "hw_wamar013"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Todespfeil"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_deatharr"
                           }
                         },
                         {
@@ -19084,6 +19040,17 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
+                            "value": "Feuerballbolzen"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_firebbol"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
                             "value": "Geweihte Bolzen"
                           },
                           "RESREF": {
@@ -19111,6 +19078,17 @@
                           "RESREF": {
                             "type": "resref",
                             "value": "itm_saeurebolzen"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Todesbolzen"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_deathbol"
                           }
                         },
                         {
@@ -19155,6 +19133,17 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
+                            "value": "Feuerballkugel"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_firebbul"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
                             "value": "Geweihte Schleuderkugeln"
                           },
                           "RESREF": {
@@ -19182,6 +19171,17 @@
                           "RESREF": {
                             "type": "resref",
                             "value": "hw_wammbu014"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Todeskugel"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "hw_deathbul"
                           }
                         }
                       ]
@@ -20383,6 +20383,28 @@
                     "STRREF": {
                       "type": "dword",
                       "value": 16807474
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Holzfällerbeil"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrwoodcutteraxe"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Holzfällersichel"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cnrwoodcuttersic"
                     }
                   },
                   {
