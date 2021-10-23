@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 311
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Während der Stunden, in denen die Arbeit ruht machte sich jemand die Mühe diese Bärenfigur zu erschaffen.\n\nDas Feuer mag im Kamin prasselnd den Schöpfer begleitet haben, während draußen der eisige Wind durchs Land peitschte.\n\nSo manch einen mag diese liebevoll und detailgetreue Figur an eine Geschichte aus Kindertagen erinnern.\n\n.....Es war ein kalter Spätherbsttag. \nIm Wald war es nebelig und trübe. \nUnd trübe war auch die Laune des kleinen Bären. Er konnte nämlich keinen seiner Freunde zum Spielen finden. \n\nEinige von ihnen waren längst vor dem nahenden Winter in den Süden geflüchtet, andere hatten sich zum Winterschlaf verkrochen oder sie streiften auf Futtersuche durch den Wald.\n \n\"Winter ist doof\", meckerte der kleine Bär mit einem tiefen Bärenbrummen. \"Und langweilig. Und dunkel. Und überhaupt ...\"\n\nEr war so schlecht gelaunt, dass er voller Missmut in den hohen Haufen mit Herbstlaub sprang, den jemand unter der Eiche neben der alten Kapelle zusammengekehrt hatte. \n\nWild trampelte er auf dem Laub herum und kickte es weit in alle Richtungen.\nHuiii! Hoch wirbelten die bunten Blätter durch die Luft. \nFast konnte man meinen, sie tanzten einen Wirbelwind-Tanz.\nDer kleine Bär lachte. Es machte Spaß, ihnen beim Wirbeln zuzusehen. Seine schlechte Laune hatte er für heute erst einmal vergessen.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Figur Bär"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 18
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 2
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "it_braunbar"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "it_braunbaerfigu"
+  }
+}

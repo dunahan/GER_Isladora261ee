@@ -1,0 +1,86 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 10
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "By making it a halberd, the naginata does not require the Exotic Weapon feat but it fits more easily into the existing weapon classes this way.\r\n\r\nPurists would do well to rename the wplhb_ models to wplna_ and to create a new entry in the baseitems.2da file for the naginata (you will have to review both the katana entry and the halberd entry and merge the two to get the right damage as well as the Exotic Weapon proficiency)."
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 20
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 16807838,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "id": 16807838,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 16807600,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 11
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 251
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 51
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "ZEP_NAGINATA"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "zep_naginata"
+  }
+}

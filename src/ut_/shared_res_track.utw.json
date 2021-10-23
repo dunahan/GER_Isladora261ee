@@ -1,0 +1,86 @@
+{
+  "__data_type": "UTW ",
+  "Appearance": {
+    "type": "byte",
+    "value": 1
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "HasMapNote": {
+    "type": "byte",
+    "value": 0
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "shared_res_tracker"
+    }
+  },
+  "MapNote": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "MapNoteEnabled": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "shared_res_tracker"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "shared_res_track"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "ui_str_color"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "  #0@P`p~´¡°ÀÐàðÿ"
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "ui_char_quote"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": "\""
+        }
+      }
+    ]
+  }
+}

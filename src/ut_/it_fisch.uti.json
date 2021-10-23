@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 109
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Wüsste man nicht, dieser Fisch ist eine Nachbildung so könnte man sich verleiten lassen ihn über dem Feuer zu braten.\n\nDetailgetreu nachgearbeitet und das Schuppenkleid in aufwendiger Arbeit mit hauchfeiner Silberlegierung aufgewertet präsentiert sich dieser Fisch.\n\nEdelsteinsplitter wurden für die Augen eingesetzt und verleihen ihm durch den sich darin einfangenden Glanz des Lichtes den Hauch des Lebens im richtigen Blickwinkel. "
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Figur Fisch"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 17
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 2
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "it_fisch"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "it_fisch"
+  }
+}

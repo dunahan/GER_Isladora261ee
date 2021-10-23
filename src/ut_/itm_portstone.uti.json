@@ -1,0 +1,163 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 374
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Hallo Spieler auf Isladora!\r\nDu hälst einen Portstein in deinen Händen, welchem seltene Kräfte innewohnen.\r\nDieser Stein kann Dich von einem Punkt auf der Insel, an einen, von dir festgesetzen Punkt teleportieren.\r\n\r\nFolgendes zur Funktion dieses Steines.\r\nEin jeder dieser Steine kann nur auf einen Nutzer und einen festen Punkt festgelegt werden.\r\n\r\nUm den Stein mit dir zu verbinden, nutze ihn das erste mal.\r\nDanach wird dir der Stein mitteilen, dass er nun dir gehört.\r\n\r\nMit der zweiten Nutzung speicherst du die aktuelle Position auf dem Stein.\r\nAuch hier wieder, der Stein wird dir bestätigen, das diese deine feste Position ist.\r\n\r\nErst nach diesen zwei Schritten kannst du den Portstein problemlos nutzen!\r\nVon da ab wird dich der Stein von jeder Position auf Isladora zu deinem festgelegten Punkt auf der Insel bringen.\r\n\r\n\r\nSollte wieder erwarten etwas nicht funktionieren, melde dich bitte per PM im Forum bei Dunahan. Danke!"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 1
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Hallo Spieler auf Isladora!\nDu hälst einen Portstein in deinen Händen, welchem seltene Kräfte innewohnen.\nDieser Stein kann Dich von einem Punkt auf der Insel, an einen, von dir festgesetzen Punkt teleportieren.\n\nFolgendes zur Funktion dieses Steines.\nEin jeder dieser Steine kann nur auf einen Nutzer und einen festen Punkt festgelegt werden.\n\nUm den Stein mit dir zu verbinden, nutze ihn das erste mal.\nDanach wird dir der Stein mitteilen, dass er nun dir gehört.\n\nMit der zweiten Nutzung speicherst du die aktuelle Position auf dem Stein.\nAuch hier wieder, der Stein wird dir bestätigen, das diese deine feste Position ist.\n\nErst nach diesen zwei Schritten kannst du den Portstein problemlos nutzen!\nVon da ab wird dich der Stein von jeder Position auf Isladora zu deinem festgelegten Punkt auf der Insel bringen.\n\n\nSollte wieder erwarten etwas nicht funktionieren, melde dich bitte per PM im Forum bei Dunahan. Danke!"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Hallo Spieler auf Isladora!\nDu hälst einen Portstein in deinen Händen, welchem seltene Kräfte innewohnen.\nDieser Stein kann Dich von einem Punkt auf der Insel, an einen, von dir festgesetzen Punkt teleportieren.\n\nFolgendes zur Funktion dieses Steines.\nEin jeder dieser Steine kann nur auf einen Nutzer und einen festen Punkt festgelegt werden.\n\nUm den Stein mit dir zu verbinden, nutze ihn das erste mal.\nDanach wird dir der Stein mitteilen, dass er nun dir gehört.\n\nMit der zweiten Nutzung speicherst du die aktuelle Position auf dem Stein.\nAuch hier wieder, der Stein wird dir bestätigen, das diese deine feste Position ist.\n\nErst nach diesen zwei Schritten kannst du den Portstein problemlos nutzen!\nVon da ab wird dich der Stein von jeder Position auf Isladora zu deinem festgelegten Punkt auf der Insel bringen.\n\n\nSollte wieder erwarten etwas nicht funktionieren, melde dich bitte per PM im Forum bei Dunahan. Danke!"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Portstein"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 227
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 54
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 9
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 335
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "itm_portstone"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "itm_portstone"
+  },
+  "VarTable": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "Brand"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "HomeRES"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Name": {
+          "type": "cexostring",
+          "value": "SaveRES"
+        },
+        "Type": {
+          "type": "dword",
+          "value": 3
+        },
+        "Value": {
+          "type": "cexostring",
+          "value": ""
+        }
+      }
+    ]
+  }
+}

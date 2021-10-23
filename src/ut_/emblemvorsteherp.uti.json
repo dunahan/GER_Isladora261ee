@@ -1,0 +1,113 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 211
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Vorsteher Porta Plata\n\nDas Emblem weist seinen Träger als Vorsteher von Porta Plata aus.\n\nFürderhin obliegen dem Amtsinhaber die Aufgaben sich um die Belange der Bürger zu widmen.\nHandel, Gehöfte und Instandsetzung von Gebäuden sind beim Amtsinhaber anzumelden.\n\nJedwede Änderungen, Instandsetzungen, Gefahrenlagen sind der Regentschaft unverzüglich zu melden.\n\nZusammenarbeit mit dem Ausbilder der Bürgerwehr, als auch mit der Garde sind verpflichtend.\nDem Amtsinhaber ist es gewährt die Garde zu Hilfe zu nehmen in Notsituationen."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "4": "Emblem Vorsteher Porta Plata"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 3
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 142
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 10
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 5
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 11
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 10
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 1
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "EmblemVorsteherPortaPlata"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "emblemvorsteherp"
+  }
+}

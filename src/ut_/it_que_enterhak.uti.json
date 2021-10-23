@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 4
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 79
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 58571,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Wie ein Enterhaken nun einmal aussieht, von daher erübrigt sich jegliche Erklärung."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "4": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13499,
+    "type": "cexolocstring",
+    "value": {
+      "4": "Enterhaken"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 107
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 161
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "it_que_enterhaken"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "it_que_enterhak"
+  }
+}
