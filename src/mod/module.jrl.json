@@ -1,0 +1,518 @@
+{
+  "__data_type": "JRL ",
+  "Categories": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "EntryNote"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "0) PC_Dummy"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_NotesXXX"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "Liebe Spieler/innen\n*Ihr befindet Euch auf Isladora, einer Insel im Schwertermeer. Früher haben hier Piraten gehaust und vor allem von der Westküste aus ihr Unwesen getrieben. Da Gerüchte umgehen, dass es in den Bergen noch versteckte Schätze geben soll, lockt die Insel viele Abenteurer an.*\nWir sind nicht ausschließlich ein Rollenspiel-Server, obwohl das Hauptaugenmerk darauf gelegt wird. Es existiert ein EP-Script fürs Rollenspiel und auch der eine oder andere SL/Counci vergibt gerne mal eine Belohnung dafür in Form von EP. Weiterhin sind Monsterjagden wie auch das Beteiligen am servereigenen Handwerk möglich, sodass hoffentlich niemandem langweilig wird.\nBitte beachtet auch, dass wir gewisse Regeln setzen mussten. Diese sind im Forum unter 'Regelwerk' zu finden findet. Weiters stellen wir hin und wieder auch 'Hinweise' ein, die ihr beachten solltet.\nEs wird verschiedene Questarten geben, zb. kurze als auch längere Varianten, in welche aber jederzeit ein Quereinstieg möglich ist, unabhängig von der Charakterstufe. Charaktergeschichten und Questberichte im Forum können mit EP belohnt werden.\nAufgrund dessen, das wir ein alter Server sind, der erst vor kurzem zur Enhanced Edition gewechselt sind, steht dem Server noch einiges an Wandel bevor. Gerne sind wir bereit eure Tipps und Hinweise anzunehmen. Wir sind ein Projekt von Spielern für Spieler, wir leben von euch Spielern. Ihr könnt uns im Forum unter www.schwerterkueste.de oder per Discord (https://discord.gg/aGPMFsg) erreichen.\nViel Spaß wünscht Euch Euer Isladora Team."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "1) Wichtiges zu, in oder um Isladora"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes001"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 2,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "InGame Accounts: Draghetto, Antoss & dunahan.\nMail: schwerterkueste@gmx.de und Forum-PM.\n\nAber bitte achtet darauf, dass\n1) wenn die genannten Spieler mit ihren Chars InGame sind, auch mal gerne spielen wollen. \n2) ihr generell ein gewisses Maß an Freundlichkeit an den Tag legt, wenn ihr schreibt.\n\nHerzlichen Dank, euer Staff"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "2) Erreichbarkeit des Staffs"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes002"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 3,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "Liebe Spieler/innen\n\ndas Wandeln auf Isladora funktioniert nicht so, wie es die meisten vom Standard-NWN gewohnt sind. Es ist, laut dem Scriptset des Vaults auf dem es basiert, an das PnP Shifter System aus DnD 3.5 angelehnt.\nDamit sind die üblichen Builds für Druiden/Wahrer Wandler-Kombis sind nicht so nutzbar wie gewohnt! Eine genauere Erklärung folgt noch.\nZudem erhalten die Spieler mit Druiden-Klasse automatisch beim ersten LogIn ein Tool. Es sieht aus wie eine Handlupe, mit dem ihr ab Stufe 5 Druide die Fähigkeit \"Wandlerform studieren\" imitieren könnt, sprich damit erhaltet ihr eure neuen Formen und deren Eigenschaften. Dabei darf die Stufe des Ziels nicht höher sein, als eure kombinierten Stufen des Druiden + Wandlers.\nJede Form bringt Vor- und Nachteile mit sich, mal davon abgesehen, dass nicht jede Form gleich erlernbar ist. Eure Fähigkeit neue Formen zu erlernen, steigt mit eurer Druiden- bzw. Wahrer Wandlerstufe an. Von Stufe 5 an beginnt das Ganze wie gesagt. Ihr erhaltet einen gewissen Zugang zu den ersten mittelgroßen Tierformen wie zB Eber, Hund, Wolf oder Falke (zudem werden wir auf Isladora auch weitere Tiere auswildern)... Mit der Stufe 7 dann wird das ganze auf Winzige/Große und schlussendlich mit Stufe 12 dann auf die Riesigen Tiergestalten ausgedehnt. Auf Stufe 16 erhaltet ihr dann die Elementargestalten. Um jedoch als reiner Druide ein Drache werden zu können, benötigt ihr weiterhin den Epischen Feat Dragon Shape (WE 30, Stufe 21, Greater Wildshape IV oder Wildshape 6x/day) dazu!\nDer Wandler bekommt von Stufe 1 bis 9 die verschiedensten Rassen (siehe 2da's) dazu. Das geht von der Humanoiden Rasse über die Monster selbst bis zu den Untoten. Dabei kann er auf der ersten Stufe Kleine und Mittelgroße Formen erlernen, Winzige und Große auf Stufe Drei und abschließend Riesige auf Stufe Sieben.\nAchtungt, Wandler brauchen die oben genannten epischen Feats NICHT zu nehmen, um die entsprechenden Gestalten erlernen zu können, sie benötigen nur genügend Stufen in der Wandlerklasse. Einzige reine Druiden ohne entsprechende Anzahl an Wandlerstufen brauchen den Epischen Feat Drachengestalt, um neben den Tier- und Elementargestalten auch Drachengestalten erlernen zu können. Bedenkt aber, ihr könnt nur weil ihr den Feat besitzt noch nicht automatisch Drachengestalt annehmen, ihr müsst immer noch einen Drachen finden, den ihr studieren könnt ;)\nWas beim Lernen sonst noch wichtig sein mag:\nDynamische Modelle können nicht kopiert werden (das sind zB alle NSCs, die nicht nur aus einer einzelnen Skin bestehen, sondern genau wie SCs beliebig mit Rüstungen optisch verändert werden können). Das Beinhaltet auch Mitspieler. Obendrein gibt es einige Gestalten, die sich parout nicht imitieren lassen, das hat einzig Engine-Interne Gründe =P\nEuer Staff"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "3) Dynamisches Wandlersystem für Druiden "
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes003"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "Liebe Spieler/innen\n\ndas InGame Handwerk ist vom System her das CNR. Wir haben es die Rezepte entsprechend unserer Welt angepasst. Dabei gehen unsere Handwerke nicht über die Verzauberungsstufe +3 hinaus. Es ist jedoch möglich verschiedene Eigenschaften darüber Hinaus zu heben,\n\nAuf Isladora haben hier die Handwerke \n  - Waffenschmied,\n  - Rüstungsschmied,\n  - Schreiner,\n  - Schneider,\n  - Tüftler,\n  - Juwelier,\n  - Verzauberung,\n  - Schreiber (jegliche Art der Magie),\n  - Alchemie und\n  - Kräuterkundler.\n\nGenauere Informationen werden wir hierin bekannt geben.\n\nEuer Staff"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "4) Handwerk"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes004"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "1) Das Item dazu heißt \"Karte mit Markierungen\", es ist ein Kästchen groß und hat das Aussehen eines kleinen Notizzettels.\n2) Es ist ein Item mit Zielfunktion:\n    a) mit einem Klick auf die Umgebung, wird eine Markierung gesetzt.\n    b) auf euch selbst gerichtet, fragt ihr eure Markierungen ab, speichert/ladet sie aus der Datenbank usw.\n3) In beiden Fällen geht ein Dialog auf. Entweder der zum Setzen der Markierung oder zum Abfragen.\n4) Um die gesetzte(n) Markierungen auf der eigenen Map anzeigen zu können, muss man die Map kurz verlassen und wieder betreten\n    a) Sollte trotzdem keine Markierung erscheinen, wendet das Tool auf euch selbst an und ladet eure Pins nach.\n    b) Es konnte keine Pin gesetzt werden. In diesem Fall meldet euch bitte unter \"schwerterkueste@gmail.com\"\n- Das Tool speichert zuerst die Daten auf dem Tool selbst, damit die Datenbankabfrage nicht zu oft den Server behindert. Erst mit dem Dialog zum Abfragen (ihr zielt auf euch selbst) könnt ihr die Daten in der Datenbank (zur Sicherheit, sollte das Item mal verloren gehen) speichern. Dabei wird eine Datenbank für Euren Account erstellt, in der dann die Markierungen nach Chars abgespeichert werden."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "5) Persistente Kartennotizen"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes005"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "Liebe Spieler/innen\nder Wunsch nach einem Eigenheim ist verständlich und wir unterstützen euch darin.\nDoch wie jeder weiß, selbst der Tod ist nicht umsonst ;)\n\nDamit ihr euch einen Überblick verschaffen könnt wie sich die Kosten erheben und was euch erwartet für euer Wunschhaus gibt es hier nun die Preisliste.\n\nEin kleines Haus\n8 Felder max.\neinen kleinen dazugehörenden Außenbereich (kleiner Vorgarten mit Sitzgruppe oder Ähnliches)\nPreis jeweils 10.000,- Gold, Gesamtsumme 20.000,- Gold\n\nMittleres Haus\n16 Felder max.\neinen mittleren Außenbereich\nPreis jeweils 20.000,- Gold, Summe 40.000,- Gold\n\nGroßes Haus\n32 Felder max.\ngroßer Außenbereich\nPreis jeweils 40.000,- Gold, Summe 80.000,- Gold\n\nSehr großes Haus\nmit dementsprechendem Außenbereich (Größe/Felder nach Absprache mit Staff)\nPreis 100.000,- fürs Haus und 50.000,- fürs Grundstück ; Gesamtpreis 150.000,- Gold\n\nVerzichtet jemand auf den Außenbereich, weil er ein Stadthaus haben möchte oder auf einen eigenen Garten verzichtet, passt sich der Preis dementsprechend an.\nSolltet ihr mehr Felder verbauen, als in unseren Richtlinien angegeben ist, wird eine Nachberechnung pro Feld von 1250,- Gold erfolgen.\nz. B. Ein kleines Haus statt 8 Felder 12 Felder ergibt sich als Preis für das Haus 15000,- Gold + Außenbereich mit 10000,- Gold => Gesamtsumme 25 000,- Gold.\nFür Fragen wendet euch bitte an den aktuellen Staff.\n\nEuer Staff\nPS: Bedenkt, hier könnte sich auch mal was ändern. Darum schaut ins Forum oder lest hier hin und wieder durch, was euch betreffen könnte. Danke!"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "6) Hausbau und eigene Maps "
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes006"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 7,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "Liebe Servergemeinde,\n\nwir haben schon vor längerer Zeit schon überlegt wie wir die Spieler belohnen können, die bereits die Stufe 40 bei ihren Charakteren überschritten haben. Wir haben uns dann auf folgende Liste geeinigt. Vielen Dank nochmals an Draghetto und Antoss für ihre Ideen. Bitte versteht, diese Liste ist nicht in Stein gehauen und kann sich hier und da entsprechend der Situation des Servers/Spielers anpassen. Wir nehmen uns auch vor, weitere Belohnungen auszudenken und diese dann bei Erfolg auch in diese Liste mitaufzunehmen.\n\nNun aber zur Liste selbst!\n\n1) Haustiere.\n50.000 flexibel in Gold oder EP\n2) Persistente Truhe.\n50.000 flexibel in Gold oder EP\n3) Besondere Styles für Waffen, Rüstungen und Schilde.\n50.000 flexibel in Gold oder EP\n4) Von OOC-Raum in sein eigenes Spielerhaus zu porten.\n150.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold.\n5) Vom Spielerhaus in die beiden Hauptstädte zu porten.\nJe Stadt 100.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold.\n6) Werkstätten im Spielerhaus.\nPro Bank 100.000 flexibel in Gold oder EP, aber mindestens die Hälfe in Gold."
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "7) Belohnungen für Charaktere 40+"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 0
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "PC_Notes007"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "EmptyNote"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "SL_Dummy"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "SL_NotesXXX"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "EntryList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "End": {
+                "type": "word",
+                "value": 0
+              },
+              "ID": {
+                "type": "dword",
+                "value": 1
+              },
+              "Text": {
+                "type": "cexolocstring",
+                "value": {
+                  "4": "1) Sollte das Tool einmal nicht im Inventar des SL-Chars erscheinen, kann man das SL-Tool unter \"Gegenstände | Selbst erstellt | Einführung\" finden.\n2) Es ist auch ratsam, die SL Fähigkeit 1 in die Bereitschaftsleiste zu legen. Diese Fähigkeit ersetzt das SL-Tool vollständig!\n"
+                }
+              }
+            }
+          ]
+        },
+        "Name": {
+          "type": "cexolocstring",
+          "value": {
+            "4": "SL-1 Tool, bzw. SL Fähigkeit 1"
+          }
+        },
+        "Picture": {
+          "type": "word",
+          "value": 65535
+        },
+        "Priority": {
+          "type": "dword",
+          "value": 4
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "SL_Notes001"
+        },
+        "XP": {
+          "type": "dword",
+          "value": 0
+        }
+      }
+    ]
+  }
+}
