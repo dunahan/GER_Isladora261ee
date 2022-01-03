@@ -4417,10 +4417,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 141
-  },
   "Width": {
     "type": "int",
     "value": 9

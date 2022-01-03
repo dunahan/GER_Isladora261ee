@@ -1707,10 +1707,6 @@
     "type": "resref",
     "value": "wcs10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 41
-  },
   "Width": {
     "type": "int",
     "value": 6

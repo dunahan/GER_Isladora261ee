@@ -546,10 +546,6 @@
     "type": "resref",
     "value": "tms01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 4
-  },
   "Width": {
     "type": "int",
     "value": 3

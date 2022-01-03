@@ -2266,10 +2266,6 @@
     "type": "resref",
     "value": "tdr01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 46
-  },
   "Width": {
     "type": "int",
     "value": 7

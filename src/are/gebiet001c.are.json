@@ -2094,10 +2094,6 @@
     "type": "resref",
     "value": "tii01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 342
-  },
   "Width": {
     "type": "int",
     "value": 9

@@ -1234,10 +1234,6 @@
     "type": "resref",
     "value": "wdd01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 58
-  },
   "Width": {
     "type": "int",
     "value": 5

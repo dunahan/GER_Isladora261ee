@@ -2266,10 +2266,6 @@
     "type": "resref",
     "value": "zic01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 39
-  },
   "Width": {
     "type": "int",
     "value": 7

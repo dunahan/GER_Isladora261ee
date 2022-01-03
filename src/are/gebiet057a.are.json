@@ -1234,10 +1234,6 @@
     "type": "resref",
     "value": "zin01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 34
-  },
   "Width": {
     "type": "int",
     "value": 5

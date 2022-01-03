@@ -1965,10 +1965,6 @@
     "type": "resref",
     "value": "zic01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 40
-  },
   "Width": {
     "type": "int",
     "value": 7

@@ -7125,10 +7125,6 @@
     "type": "resref",
     "value": "ztf01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 18
-  },
   "Width": {
     "type": "int",
     "value": 18

@@ -5362,10 +5362,6 @@
     "type": "resref",
     "value": "tni02"
   },
-  "Version": {
-    "type": "dword",
-    "value": 42
-  },
   "Width": {
     "type": "int",
     "value": 11

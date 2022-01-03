@@ -1449,10 +1449,6 @@
     "type": "resref",
     "value": "zic01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 52
-  },
   "Width": {
     "type": "int",
     "value": 6

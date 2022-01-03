@@ -8587,10 +8587,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 51
-  },
   "Width": {
     "type": "int",
     "value": 14

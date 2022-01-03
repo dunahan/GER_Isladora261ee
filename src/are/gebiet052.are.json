@@ -2911,10 +2911,6 @@
     "type": "resref",
     "value": "wms01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 43
-  },
   "Width": {
     "type": "int",
     "value": 8

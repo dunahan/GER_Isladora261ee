@@ -1234,10 +1234,6 @@
     "type": "resref",
     "value": "tdm01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 91
-  },
   "Width": {
     "type": "int",
     "value": 5

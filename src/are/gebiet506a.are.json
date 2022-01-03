@@ -331,10 +331,6 @@
     "type": "resref",
     "value": "tdr01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 11
-  },
   "Width": {
     "type": "int",
     "value": 2

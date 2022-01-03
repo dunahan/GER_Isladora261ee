@@ -4416,10 +4416,6 @@
     "type": "resref",
     "value": "zic01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 95
-  },
   "Width": {
     "type": "int",
     "value": 9

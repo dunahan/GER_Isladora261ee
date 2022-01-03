@@ -6868,10 +6868,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 182
-  },
   "Width": {
     "type": "int",
     "value": 13

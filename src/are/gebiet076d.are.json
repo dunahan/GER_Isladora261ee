@@ -2266,10 +2266,6 @@
     "type": "resref",
     "value": "zin01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 24
-  },
   "Width": {
     "type": "int",
     "value": 7

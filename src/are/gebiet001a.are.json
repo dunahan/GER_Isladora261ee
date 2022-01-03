@@ -1363,10 +1363,6 @@
     "type": "resref",
     "value": "tii01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 479
-  },
   "Width": {
     "type": "int",
     "value": 7

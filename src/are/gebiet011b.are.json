@@ -1707,10 +1707,6 @@
     "type": "resref",
     "value": "tdm01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 49
-  },
   "Width": {
     "type": "int",
     "value": 6

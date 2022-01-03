@@ -1363,10 +1363,6 @@
     "type": "resref",
     "value": "tni01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 35
-  },
   "Width": {
     "type": "int",
     "value": 7

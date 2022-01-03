@@ -417,10 +417,6 @@
     "type": "resref",
     "value": "zin01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 21
-  },
   "Width": {
     "type": "int",
     "value": 3

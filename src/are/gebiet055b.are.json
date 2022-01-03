@@ -6351,10 +6351,6 @@
     "type": "resref",
     "value": "zdm01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 29
-  },
   "Width": {
     "type": "int",
     "value": 12

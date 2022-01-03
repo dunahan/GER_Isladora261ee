@@ -2524,10 +2524,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 55
-  },
   "Width": {
     "type": "int",
     "value": 11

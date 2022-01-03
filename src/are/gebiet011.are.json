@@ -3513,10 +3513,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 69
-  },
   "Width": {
     "type": "int",
     "value": 6

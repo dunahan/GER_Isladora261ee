@@ -10221,10 +10221,6 @@
     "type": "resref",
     "value": "zdc01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 55
-  },
   "Width": {
     "type": "int",
     "value": 13

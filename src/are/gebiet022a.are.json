@@ -8673,10 +8673,6 @@
     "type": "resref",
     "value": "zdc01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 66
-  },
   "Width": {
     "type": "int",
     "value": 11

@@ -2911,10 +2911,6 @@
     "type": "resref",
     "value": "tdm01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 90
-  },
   "Width": {
     "type": "int",
     "value": 8

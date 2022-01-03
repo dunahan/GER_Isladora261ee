@@ -3943,10 +3943,6 @@
     "type": "resref",
     "value": "zin01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 20
-  },
   "Width": {
     "type": "int",
     "value": 11

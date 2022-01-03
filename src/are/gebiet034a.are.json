@@ -8587,10 +8587,6 @@
     "type": "resref",
     "value": "tdm01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 44
-  },
   "Width": {
     "type": "int",
     "value": 14

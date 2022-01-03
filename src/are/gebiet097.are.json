@@ -4029,10 +4029,6 @@
     "type": "resref",
     "value": "zti01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 27
-  },
   "Width": {
     "type": "int",
     "value": 10

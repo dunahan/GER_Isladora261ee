@@ -5362,10 +5362,6 @@
     "type": "resref",
     "value": "wsf10"
   },
-  "Version": {
-    "type": "dword",
-    "value": 167
-  },
   "Width": {
     "type": "int",
     "value": 11

@@ -4889,10 +4889,6 @@
     "type": "resref",
     "value": "tzs01"
   },
-  "Version": {
-    "type": "dword",
-    "value": 25
-  },
   "Width": {
     "type": "int",
     "value": 10

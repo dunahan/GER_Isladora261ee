@@ -2094,10 +2094,6 @@
     "type": "resref",
     "value": "wdd04"
   },
-  "Version": {
-    "type": "dword",
-    "value": 25
-  },
   "Width": {
     "type": "int",
     "value": 9
